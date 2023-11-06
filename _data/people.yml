@@ -139,7 +139,7 @@ ugrad-Jerison:
 collab-jerome:
     display_name: "Prof Jerome Delhommelle"
     role: collab
-    image: /img/people/Delhommelle-Jerome.jpeg
+    image: /img/people/Delhommelle-Jerome.jpg
 
 
 collab-hugo:
@@ -151,7 +151,7 @@ collab-hugo:
 collab-anna:
     display_name: "Prof Anna Yaroslovsky"
     role: collab
-    image: /img/people/Yaroslavsky-Anna.jpeg
+    image: /img/people/Yaroslavsky-Anna.jpg
 
 
 #collab-d:
