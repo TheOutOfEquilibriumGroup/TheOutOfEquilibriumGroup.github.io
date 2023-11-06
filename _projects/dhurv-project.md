@@ -1,25 +1,16 @@
 ---
-title: Dhruv Project
+title: Quantum-enhanced Monte Carlo simulations
 status: active
 
 description: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut hendrerit blandit
-  varius. Pellentesque habitant morbi tristique senectus et netus et malesuada
-  fames ac turpis egestas.
+  In the future, quantum computers could provide faster solutions for sampling problems than classical computers. Developing and testing new quantum algorithms could lead to significant speedup and solve bottleneck issues in machine learning, statistical physics, and optimization problems.
+  
 
 people:
-  - Dhruv
-  - 
+  - grad-dhruv
 
 layout: project
-last-updated: 2015-05-05
+last-updated: 2023-10-05
 ---
 
-Proin massa augue, eleifend non ultricies eget, feugiat ut nisl. Fusce at
-aliquet justo, id elementum lacus. Praesent eleifend tempus molestie. Nunc
-vulputate sed tortor a ultrices. Nullam blandit hendrerit nisi, at suscipit
-augue ultricies quis. Nulla tincidunt rhoncus nisl sed consectetur. Phasellus
-dapibus, leo in varius tempus, nibh velit tincidunt lacus, ut porta eros ex et
-eros. Ut diam purus, sagittis vitae cursus eu, molestie eget turpis. Sed
-consectetur magna in posuere faucibus. Morbi nibh eros, blandit ut vehicula ac,
-pellentesque ut urna.
+Coming soon...
