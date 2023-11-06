@@ -1,5 +1,5 @@
 ---
-title: active matter to assemble into reconfigurable nonequilibrium structures
+title: Active matter assembly into reconfigurable nonequilibrium structures
 
 notitle: false
 
