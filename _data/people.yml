@@ -33,12 +33,12 @@ grad-dhruv:
     display_name: "Dhruv Patel"
    # webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
     role: grad
-    image: /img/people/Screenshot.jpeg
+    image: /img/people/Screenshot.jpg
 
 grad-opeyemi:
-    display_name: "Opeyemi"
+    display_name: "Opeyemi Akanbi"
     role: grad
-    image: /img/people/desgranges_caroline_02.jpeg
+    image: /img/people/Screenshot.jpg
 
 
 #grad-b:
@@ -77,13 +77,13 @@ grad-opeyemi:
 ugrad-Emma:
     display_name: "Emma Goyette"
     role: ugrad
-    image: /img/people/desgranges_caroline_02.jpeg
+    image: /img/people/Screenshot.jpg
 
 
 ugrad-Jerison:
     display_name: "Jerison Parra"
     role: ugrad
-    image: /img/people/desgranges_caroline_02.jpeg
+    image: /img/people/Screenshot.jpg
 
 
 #ugrad-c:
@@ -139,19 +139,19 @@ ugrad-Jerison:
 collab-jerome:
     display_name: "Prof Jerome Delhommelle"
     role: collab
-    image: /img/people/desgranges_caroline_02.jpeg
+    image: /img/people/Delhommelle-Jerome.jpeg
 
 
 collab-hugo:
     display_name: "Prof Hugo Ribeiro"
     role: collab
-    image: /img/people/desgranges_caroline_02.jpeg
+    image: /img/people/Screenshot.jpg
 
 
 collab-anna:
     display_name: "Prof Anna Yaroslovsky"
     role: collab
-    image: /img/people/desgranges_caroline_02.jpeg
+    image: /img/people/Yaroslavsky-Anna.jpeg
 
 
 #collab-d:
