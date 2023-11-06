@@ -1,43 +1,15 @@
 ---
-title: Ray Project
+title: The central role of entropy in adiabatic ensembles
 status: active
 
 description: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut hendrerit blandit
-  varius. Pellentesque habitant morbi tristique senectus et netus et malesuada
-  fames ac turpis egestas.
+  Using the principles of statistical mechanics and thermodynamics, we can define eight different ensembles. The first four ensembles that were introduced are the microcanonical ensemble (N,V,E), the canonical ensemble (N,V,T), the grand-canonical ensemble (µ,V,T), and the isothermal-isobaric (N,P,T) ensemble. These ensembles have been extensively used in computer simulations to model a wide range of continuous or discrete systems. They serve as the basis of molecular dynamics and Monte Carlo methods. Guggenheim proposed a fifth statistical ensemble called the generalized (µ,P,T) ensemble. The canonical, grand-canonical, and isothermal-isobaric ensembles are a set of four isothermal ensembles that hold T constant. However, the thermodynamic constraints can be modified to define three additional statistical ensembles. Brown, Hill, and Ray developed three other ensembles, known as the isoenthalpic-isobaric ensemble (N, P, H), the grand-isochoric adiabatic (µ, V, L) ensemble, and the grand-isobaric adiabatic (µ, P, R) ensemble, using the Legendre-Laplace mapping procedure. Together with the microcanonical ensemble, they form a set of four adiabatic ensembles, in which the value of a heat function is constant, rather than the temperature. In summary, the isothermal ensembles are in thermal contact with a reservoir, while the adiabatic ensembles are thermally insulated.
 
 people:
-  - Emma
-  - Jerison
-  - collab-hugo
+  - collab-jerome
 
 layout: project
-last-updated: 2015-05-05
+last-updated: 2023-05-05
 ---
 
-Proin massa augue, eleifend non ultricies eget, feugiat ut nisl. Fusce at
-aliquet justo, id elementum lacus. Praesent eleifend tempus molestie. Nunc
-vulputate sed tortor a ultrices. Nullam blandit hendrerit nisi, at suscipit
-augue ultricies quis. Nulla tincidunt rhoncus nisl sed consectetur. Phasellus
-dapibus, leo in varius tempus, nibh velit tincidunt lacus, ut porta eros ex et
-eros. Ut diam purus, sagittis vitae cursus eu, molestie eget turpis. Sed
-consectetur magna in posuere faucibus. Morbi nibh eros, blandit ut vehicula ac,
-pellentesque ut urna.
-
-Maecenas scelerisque ut enim non convallis. Mauris ut nisl vitae mi dictum
-mollis. Pellentesque iaculis lacinia nisl viverra laoreet. Integer ac lacus quis
-elit varius mollis et ultrices tortor. Aliquam id dolor cursus, sagittis arcu
-tincidunt, scelerisque nisi. Morbi scelerisque feugiat mi in faucibus. Maecenas
-suscipit aliquet est et efficitur. Nullam sed purus nec nulla placerat ultrices
-ac at ipsum. Mauris a imperdiet eros.
-
-Aenean malesuada tellus nulla, ut ultrices purus dictum et. Nunc non eleifend
-nulla, ut luctus nulla. Nulla et accumsan odio. Fusce libero nisl, rutrum ac
-risus sit amet, interdum feugiat eros. Morbi semper scelerisque magna vel
-malesuada. Curabitur in blandit orci. Cras eu tincidunt odio. Sed consectetur
-nunc purus, id pharetra felis fermentum vitae. Sed rhoncus lacus lacus. Aenean a
-ante et quam viverra pharetra interdum id ligula. Vestibulum lobortis ipsum ac
-risus sagittis, non dapibus metus finibus. Quisque efficitur felis sed felis
-luctus, non egestas ex dapibus. Sed pharetra gravida augue, id posuere nunc
-fringilla eget.
+Coming soon...
