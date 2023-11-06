@@ -3,8 +3,7 @@ title: Control Strategies for Open Quantum Dynamics - A Combined
 Deep Learning Theoretical Physics Approach
 status: active
 
-description: |
-  The goal of this project is to create strategies that can control correlated noise in order to perform quantum operations like single and two-qubit gates. It's important to understand how the environment affects an out-of-equilibrium quantum system in order to build a fault-tolerant quantum computer and develop high-sensitivity sensors.
+description: The goal of this project is to create strategies that can control correlated noise in order to perform quantum operations like single and two-qubit gates. It's important to understand how the environment affects an out-of-equilibrium quantum system in order to build a fault-tolerant quantum computer and develop high-sensitivity sensors.
 
 people:
   - ugrad-Emma
