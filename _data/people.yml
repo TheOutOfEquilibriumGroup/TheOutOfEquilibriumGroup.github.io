@@ -137,19 +137,19 @@ ugrad-Jerison:
   #  role: alum
 
 collab-jerome:
-    display_name: "Prof Jerome Delhommelle"
+    display_name: "Prof. Jerome Delhommelle"
     role: collab
     image: /img/people/Delhommelle-Jerome.jpg
 
 
 collab-hugo:
-    display_name: "Prof Hugo Ribeiro"
+    display_name: "Prof. Hugo Ribeiro"
     role: collab
     image: /img/people/Screenshot.jpg
 
 
 collab-anna:
-    display_name: "Prof Anna Yaroslovsky"
+    display_name: "Prof. Anna Yaroslavsky"
     role: collab
     image: /img/people/Yaroslavsky-Anna.jpg
 
