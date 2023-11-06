@@ -1,6 +1,6 @@
 
 prof-caroline:
-    display_name: "Prof Caroline Desgranges"
+    display_name: "Prof. Caroline Desgranges"
     role: faculty
     image: /img/people/desgranges_caroline_02.jpeg
 
@@ -33,7 +33,7 @@ grad-dhruv:
     display_name: "Dhruv Patel"
    # webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
     role: grad
-    image: /img/people/desgranges_caroline_02.jpeg
+    image: /img/people/Screenshot.jpeg
 
 grad-opeyemi:
     display_name: "Opeyemi"
