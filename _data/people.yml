@@ -40,6 +40,11 @@ grad-opeyemi:
     role: grad
     image: /img/people/Opeyemi.jpg
 
+grad-jack:
+    display_name: "Jack Shannon"
+    role: grad
+    image: /img/people/Jack.jpg
+
 
 #grad-b:
  #   display_name: "Graduate Student B With Long Name"
