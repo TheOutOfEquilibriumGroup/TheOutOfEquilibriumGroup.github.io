@@ -1,5 +1,5 @@
 ---
-title: Combining AI/ML methods and fluorescence polarization approach for cancer diagnosis
+title: OPEN POSITION - Combining AI/ML methods and fluorescence polarization approach for cancer diagnosis
 status: active
 
 description: |
