@@ -1,5 +1,5 @@
 ---
-title: Quantum-enhanced Monte Carlo simulations
+title: OPEN POSITION: Quantum-enhanced Monte Carlo simulations
 status: active
 
 description: |
