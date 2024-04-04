@@ -1,5 +1,5 @@
 ---
-title: Opeyemi Project
+title: Jack Project
 status: active
 
 description: |
@@ -8,7 +8,7 @@ description: |
   fames ac turpis egestas.
 
 people:
-  - Opeyemi
+  - Jack
   - 
 
 layout: project
