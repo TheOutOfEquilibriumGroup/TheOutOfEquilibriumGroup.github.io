@@ -6,7 +6,7 @@ description: |
   Boltzmann Machine is a generative unsupervised model.
 
 people:
-  - Jack
+  - grad-Jack
 
 layout: project
 last-updated: 2024-05-05
