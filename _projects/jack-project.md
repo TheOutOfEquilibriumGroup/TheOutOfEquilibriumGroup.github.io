@@ -7,7 +7,6 @@ description: |
 
 people:
   - Jack
-  - 
 
 layout: project
 last-updated: 2024-05-05
