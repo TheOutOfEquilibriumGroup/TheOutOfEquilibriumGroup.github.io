@@ -1,5 +1,5 @@
 ---
-title: Jack Project
+title: Generative Machine Learning
 status: active
 
 description: |
