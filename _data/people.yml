@@ -29,11 +29,11 @@ prof-caroline:
    # github: wolverine
    # role: postdoc
 
-grad-dhruv:
-    display_name: "Dhruv Patel"
+#grad-dhruv:
+ #   display_name: "Dhruv Patel"
    # webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
-    role: grad
-    image: /img/people/Dhruv.jpg
+ #   role: grad
+ #   image: /img/people/Dhruv.jpg
 
 grad-opeyemi:
     display_name: "Opeyemi Akanbi"
@@ -43,7 +43,7 @@ grad-opeyemi:
 grad-jack:
     display_name: "Jack Shannon"
     role: grad
-    image: /img/people/Screenshot.jpg
+    image: /img/people/Jack.jpg
 
 
 #grad-b:
@@ -103,10 +103,10 @@ ugrad-Jerison:
  #   display_name: "Ugrad E"
   #  role: ugrad
   
-#alum-a:
- #   display_name: "Alum A"
-  #  role: alum
-   # bio: "Ph.D., 2013. Now at Microsoft Research."
+alum-a:
+    display_name: "Dhruv Patel"
+    role: alum
+    bio: "Graduate Student, Computer Engineering @ UML."
 
 #alum-b:
  #   display_name: "Alum B With Way Longer Name"
