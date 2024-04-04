@@ -25,8 +25,8 @@ roles:
  #   name: Past Undergraduate Students
   - key: collab
     name: Collaborators
- # - key: alum
- #   name: Alumni
+  - key: alum
+    name: Alumni
 
 # Number of news stories on the front page.
 front_page_news: 4
