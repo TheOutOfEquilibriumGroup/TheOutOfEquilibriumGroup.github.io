@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Team"
+title: "The Out of Equilibrium Group - Team"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "The Out of Equilibrium Group: Team members"
 sitemap: false
 permalink: /team/
 ---
