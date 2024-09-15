@@ -1,4 +1,4 @@
-# Allan Lab Website
+# The Out Of Equilibrium Group Website
 
 This is the website of our academic research group at Leiden University.
 
