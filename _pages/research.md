@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Research"
+title: "The Out of Equilibrium Group - Research"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "The Out of Equilibrium Group -- Research"
 sitemap: false
 permalink: /research/
 ---
