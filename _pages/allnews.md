@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "The Out of Equilibrium Group."
 sitemap: false
 permalink: /allnews.html
 ---
