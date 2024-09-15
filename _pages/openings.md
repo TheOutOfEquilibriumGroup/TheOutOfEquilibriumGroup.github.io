@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - Vacancies"
+title: "The Out of Equilibrium Group - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
