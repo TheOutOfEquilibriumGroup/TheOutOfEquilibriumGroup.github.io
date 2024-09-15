@@ -1,7 +1,7 @@
 ---
 title: "The Out of Equilibrium Group - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University &rarr; LMU."
+excerpt: "The Out of Equilibrium Group."
 sitemap: false
 permalink: /
 ---
