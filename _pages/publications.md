@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "The Out of Equilibrium Group - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "The Out of Equilibrium Group -- Publications."
 sitemap: false
 permalink: /publications/
 ---
