@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Pictures"
+title: "The Out of Equilibrium Group - Pictures"
 layout: piclay
-excerpt: "Allan Lab -- Pictures"
+excerpt: "The Out of Equilibrium Group -- Pictures"
 permalink: /pictures/
 ---
 
