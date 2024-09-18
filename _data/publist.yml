@@ -65,6 +65,78 @@
     display: J. Am. Chem. Soc. 133, 9, 2872–2874 (2011)
   highlight: 1
 
+- title: "Rheology of liquid fcc metals: Equilibrium and transient-time correlation-function nonequilibrium molecular dynamics simulations"
+  image: 
+  authors: C. Desgranges, J. Delhommelle
+  description: 
+  link:
+    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.78.184202
+    display: Phys. Rev. B 78, 184202 (2008)
+  highlight: 0
+
+- title: "Shear viscosity of liquid copper at experimentally accessible shear rates: Application of the transient-time correlation function formalism"
+  image: 
+  authors: C. Desgranges, J. Delhommelle
+  description: 
+  link:
+    url: https://pubs.aip.org/aip/jcp/article-abstract/128/8/084506/71201/Shear-viscosity-of-liquid-copper-at-experimentally?redirectedFrom=fulltext
+    display: J. Chem. Phys. 128, 084506 (2008)
+  highlight: 0
+
+- title: "Molecular simulation of transport in nanopores: Application of the transient-time correlation function formalism"
+  image: 
+  authors: C. Desgranges, J. Delhommelle
+  description: 
+  link:
+    url: https://journals.aps.org/pre/abstract/10.1103/PhysRevE.77.027701
+    display: Phys. Rev. E 77, 027701 (2008)
+  highlight: 0
+
+- title: "Crystallization mechanisms for supercooled liquid Xe at high pressure and temperature: Hybrid Monte Carlo molecular simulations"
+  image: 
+  authors: C. Desgranges, J. Delhommelle
+  description: 
+  link:
+    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.77.054201
+    display: Phys. Rev. B 77, 054201 (2008)
+  highlight: 0
+
+- title: "Estimating the conductivity of a nanoconfined liquid subjected to an experimentally accessible external field"
+  image: 
+  authors: C. Desgranges, J. Delhommelle
+  description: 
+  link:
+    url: https://www.tandfonline.com/doi/abs/10.1080/08927020801930604
+    display: Molecular Simulation, 34(2), 177–181 (2008)
+  highlight: 0
+
+- title: "Viscosity of liquid iron under high pressure and high temperature: Equilibrium and nonequilibrium molecular dynamics simulation studies"
+  image: 
+  authors: C. Desgranges, J. Delhommelle
+  description: 
+  link:
+    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.76.172102
+    display: Phys. Rev. B 76, 172102 (2007)
+  highlight: 0
+
+- title: "Polymorph Selection during the Crystallization of Softly Repulsive Spheres:  The Inverse Power Law Potential"
+  image: 
+  authors: C. Desgranges, J. Delhommelle
+  description: 
+  link:
+    url: https://pubs.acs.org/doi/abs/10.1021/jp0753023
+    display: J. Phys. Chem. B 111, 42, 12257–12262 (2007)
+  highlight: 0
+
+- title: "Molecular simulation of the crystallization of aluminum from the supercooled liquid"
+  image: 
+  authors: C. Desgranges, J. Delhommelle
+  description: 
+  link:
+    url: https://pubs.aip.org/aip/jcp/article-abstract/127/14/144509/148988/Molecular-simulation-of-the-crystallization-of?redirectedFrom=fulltext
+    display: J. Chem. Phys. 127, 144509 (2007)
+  highlight: 0
+
 - title: "Controlling Polymorphism during the Crystallization of an Atomic Fluid"
   image: Controlling.png
   description: We use molecular dynamics simulations to shed light on polymorph selection during the crystallization of the Lennard-Jones fluid. By varying pressure at fixed supercooling, we form large crystallites either of the stable face centered cubic form or of the metastable body centered cubic form and even fine-tune the fractions of stable and metastable polymorphs in the crystallite.
@@ -83,6 +155,24 @@
     url: https://pubs.acs.org/doi/abs/10.1021/ja072260n
     display: J. Am. Chem. Soc. 129, 22, 7012–7013 (2007)
   highlight: 1
+
+- title: "Molecular Simulation of Cross-Nucleation between Polymorphs"
+  image: 
+  authors: C. Desgranges, J. Delhommelle
+  description: 
+  link:
+    url: https://pubs.acs.org/doi/full/10.1021/jp067310+
+    display: J. Phys. Chem. B 111, 6, 1465–1469 (2007)
+  highlight: 0
+
+- title: "Polymorph selection during the crystallization of Yukawa systems"
+  image: 
+  authors: C. Desgranges, J. Delhommelle
+  description: 
+  link:
+    url: https://pubs.aip.org/aip/jcp/article-abstract/126/5/054501/187254/Polymorph-selection-during-the-crystallization-of?redirectedFrom=fulltext
+    display: J. Chem. Phys. 126, 054501 (2007)
+  highlight: 0
 
 - title: "Insights into the Molecular Mechanism Underlying Polymorph Selection"
   image: Insights.jpg
@@ -104,12 +194,4 @@
   highlight: 1
   news2:
 
-- title: "Polymorph selection during the crystallization of Yukawa systems"
-  image: 
-  authors: C. Desgranges, J. Delhommelle
-  description: 
-  link:
-    url: https://pubs.aip.org/aip/jcp/article-abstract/126/5/054501/187254/Polymorph-selection-during-the-crystallization-of?redirectedFrom=fulltext
-    display: J. Chem. Phys. 126, 054501 (2007)
-  highlight: 0
 
