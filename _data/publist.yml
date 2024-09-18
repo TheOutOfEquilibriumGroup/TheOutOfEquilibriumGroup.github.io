@@ -43,7 +43,7 @@
     url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.115701
     display: Phys. Rev. Lett. 120, 115701 (2018)
   highlight: 1
-  news2: See [Cover of PRL](https://journals.aps.org/prl/issues/120/11)
+  news1: See [Cover of PRL](https://journals.aps.org/prl/issues/120/11)
 
 - title: "Unraveling the Coupling between Demixing and Crystallization in Mixtures"
   image: Mixtures.jpg
@@ -54,7 +54,7 @@
     display: J. Am. Chem. Soc. 136, 23, 8145–8148 (2014)
   highlight: 1
   news1: See [Cover of JACS](https://pubs.acs.org/toc/jacsat/136/23)
-  news1: See [Revealing the Magic behind Nanoscale Crystallization by Jenny Morber](https://pubs.acs.org/doi/full/10.1021/ja505351b)
+  news2: See [Revealing the Magic behind Nanoscale Crystallization by Jenny Morber](https://pubs.acs.org/doi/full/10.1021/ja505351b)
 
 - title: "Role of Liquid Polymorphism during the Crystallization of Silicon"
   image: Role.jpg
