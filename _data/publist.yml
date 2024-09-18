@@ -1,6 +1,6 @@
 
 - title: "Accelerated convergence via adiabatic sampling for adsorption and desorption processes"
-  image: Convergence.jpg
+  image: Convergence1.jpeg
   description: Here, we leverage simulations in an adiabatic statistical ensemble, known as adiabatic grand-isochoric ensemble (μ, V, L) ensemble, to reach equilibrium states with a greater efficiency than its isothermal counterpart, i.e., simulations in the grand-canonical ensemble.
   authors: C. Desgranges, J. Delhommelle
   link:
