@@ -65,13 +65,13 @@
     display:  J. Am. Chem. Soc. 133, 9, 2872–2874 (2011)
   highlight: 1
 
-- title: "Multi-Atom Quasiparticle Scattering Interference for Superconductor Energy-Gap Symmetry Determination"
-  image: TBG_ARPES.png
-  description:
-  authors: R Sharma, A Kreisel, MA Sulangi, J Böker, A Kostin, MP Allan, H Eisaki, AE Böhmer, PC Canfield, I Eremin, JC Davis, PJ Hirschfeld, PO Sprau
+- title: "Controlling Polymorphism during the Crystallization of an Atomic Fluid"
+  image: Controliing.jpg
+  description: We use molecular dynamics simulations to shed light on polymorph selection during the crystallization of the Lennard-Jones fluid. By varying pressure at fixed supercooling, we form large crystallites either of the stable face centered cubic form or of the metastable body centered cubic form and even fine-tune the fractions of stable and metastable polymorphs in the crystallite.
+  authors: C. Desgranges, J. Delhommelle
   link:
-    url: https://dx.doi.org/10.1038/s41535-020-00303-4
-    display: npj Quantum Materials 6, 7 (2021)
+    url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.98.235502
+    display: Phys. Rev. Lett. 98, 235502 (2007)
   highlight: 0
   news2:
 
