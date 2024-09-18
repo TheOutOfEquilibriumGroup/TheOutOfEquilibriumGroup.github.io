@@ -75,16 +75,14 @@
   highlight: 0
   news2:
 
-
-- title: "Observation of flat bands in twisted bilayer graphene"
-  image: TBG_ARPES.png
-  description: A first paper from the TBG collaboration is online, with beautiful data from the Baumberger group in Geneva, and great devices from the Efetov group at ICFO. We measured STM on the device.
-  authors: S Lisi*, X Lu*, T Benschop*, TA de Jong*, Petr S, JR Duran, F Margot, I Cucchi, E Cappelli, A Hunter, A Tamai, V Kandyba, A Giampietri, A Barinov, J Jobst, V Stalman, M Leeuwenhoek, K Watanabe, T Taniguchi, L Rademaker, SJ van der Molen, MP Allan, DK Efetov, F Baumberger
+- title: "Molecular Insight into the Pathway to Crystallization of Aluminume"
+  image: Molecular.jpg
+  description: Body-centered cubic clusters, which usually form during the nucleation of simple fluids, are not observed during the crystallization of Al. Throughout nucleation and growth, Al nuclei are always strongly faceted, in sharp contrast with the spherical crystallites observed for simple fluids. 
+  authors: C. Desgranges, J. Delhommelle
   link:
-    url: https://www.nature.com/articles/s41567-020-01041-x
-    display:  Nature Physics 17, 198 (2020)
+    url: https://pubs.acs.org/doi/abs/10.1021/ja072260n
+    display:   J. Am. Chem. Soc. 129, 22, 7012–7013 (2007)
   highlight: 1
-  news2: News coverage by <a href="https://www.nrc.nl/nieuws/2020/09/28/slome-elektronen-maken-grafeen-supergeleidend-a4013840"> NRC </a>
 
 - title: "Direct comparison of ARPES, STM, and quantum oscillation data for band structure determination in Sr2RhO4"
   image: Direct.png
