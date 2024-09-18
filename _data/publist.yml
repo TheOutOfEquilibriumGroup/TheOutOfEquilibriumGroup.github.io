@@ -8,37 +8,32 @@
     display: J. Phys. Chem. 161, 104104 (2024) (Editors' Pick)
   highlight: 1
 
-- title: "Single-electron charge transfer into putative Majorana and trivial modes in individual vortices"
-  image: imageaward_edited.png
-  description: Shot noise has been suggested for a long time as a tell-tale probe for Majorana bound states. We are the first to carry out local tunneling shot noise measurements on the putative vortex Majorana states.
-  authors: J-F Ge, KM Bastiaans, D Chatzopoulos, D Cho, WO Tromp, T Benschop, J Niu, G Gu, MP Allan
+- title: "Entropy production in model colloidal suspensions under shear via the fluctuation theorem"
+  image: Entropyproduction.jpg
+  description: Dissipative systems often exhibit novel and unexpected properties. This is, for instance, the case of simple liquids, which, when subjected to shear and after reaching a steady state, can exhibit a negative entropy production over finite length scales and timescales.
+  authors: C. Desgranges, J. Delhommelle
   link:
-    url: https://www.nature.com/articles/s41467-023-39109-w
-    display: Nature Communications 4, 3341 (2023)
+    url: https://pubs.aip.org/aip/jcp/article/153/22/224113/973529/Entropy-production-in-model-colloidal-suspensions
+    display: J. Phys. Chem. 153, 224113 (2020)
   highlight: 1
-  news2: See [news item](https://www.universiteitleiden.nl/en/news/2023/06/new-method-to-find-majoranas-tested-for-the-first-time) by Michelle Willebrands
 
-- title: "Puddle formation, persistent gaps, and non-mean-field breakdown of superconductivity in overdoped (Pb,Bi)2Sr2CuO6+δ"
-  image: BSCCOgap.png
-  description: Why does cuprate superconductivity break down at a certain doping level? Using scanning tunneling spectroscopy we find that an emerging metallic matrix inside the superconducting state is responsible for the overall reduction of Tc and the superfluid density, while leaving the gapsize unchanged. The formation of the matrix is tied to a pair breaking process violating a core principle of mean-field theories.
-  authors: WO Tromp, T Benschop, J-F Ge, I Battisti, KM Bastiaans, D Chatzopoulos, A Vervloet, S Smit, E van Heumen, MS Golden, Y Huang, T Kondo, Y Yin, JE Hoffman, MA Sulangi, J Zaanen, MP Allan
+- title: "Can Ordered Precursors Promote the Nucleation of Solid Solutions?"
+  image: Ordered.jpg
+  description: Crystallization often proceeds through successive stages that lead to a gradual increase in organization. Using molecular simulation, we determine the nucleation pathway for solid solutions of copper and gold. We identify a new nucleation mechanism (liquid→𝐿⁢12 precursor→solid solution) involving a chemically ordered intermediate that is more organized than the end product. 
+  authors: C. Desgranges, J. Delhommelle
   link:
-    url: https://www.nature.com/articles/s41563-023-01497-1
-    display: Nature Materials 22, 703 (2023)
+    url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.123.195701
+    display: Phys. Rev. Lett. 123, 195701 (2019) 
   highlight: 1
-  news1: See [News and Views](https://www.nature.com/articles/s41563-023-01552-x) by Yu He.
 
-
-- title: "Direct evidence for Cooper pairing without a spectral gap in a disordered superconductor above Tc"
-  image: Pairs3.png
-  description: We use our atomic-scale scanning tunneling noise setup on a disordered superconductor, and discover a state above TC that, much like an ordinary metal, has no (pseudo)gap, but carries charge via paired electrons.
-  authors: KM Bastiaans, D Chatzopoulos, J-F Ge, D Cho, WO Tromp, JM van Ruitenbeek, MH Fischer, PJ de Visser, DJ Thoen, EFC Driessen, TM Klapwijk, MP Allan
+- title: "Crystal nucleation along an entropic pathway: Teaching liquids how to transition"
+  image: Entropypath.jpg
+  description: We combine machine learning (ML) with Monte Carlo (MC) simulations to study the crystal nucleation process. By taking entropy as a reaction coordinate and using the umbrella sampling technique, we are able to determine the Gibbs free energy profile for the crystal nucleation process. In particular, we obtain a free energy barrier in very good agreement with the results from previous simulation studies. The approach developed here can be readily extended to molecular systems and complex fluids, and is especially promising for the study of entropy-driven processes.
+  authors: C. Desgranges, J. Delhommelle
   link:
-    url: https://www.science.org/doi/10.1126/science.abe3987
-    display: Science 374, 608 (2021)
+    url: https://journals.aps.org/pre/abstract/10.1103/PhysRevE.98.063307
+    display: Phys. Rev. E 98, 063307 (2018)
   highlight: 1
-  news1:   <a style="color:#FF0000" href="https://www.nature.com/articles/s41567-021-01468-w">Featured as 'Research Highlight' in Nature Physics by David Abergel</a>
-  news2: See [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/), [SRON news](https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding), [TU Delft news](https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity), [Leiden news](https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered).
 
 - title: "Imaging moiré deformation and dynamics in twisted bilayer graphene"
   image: TBG_SL.png
