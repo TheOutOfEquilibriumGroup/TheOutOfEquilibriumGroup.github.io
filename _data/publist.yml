@@ -65,6 +65,24 @@
     display: J. Am. Chem. Soc. 133, 9, 2872–2874 (2011)
   highlight: 1
 
+- title: "Phase equilibria of polyaromatic hydrocarbons by hybrid Monte Carlo Wang–Landau simulations"
+  image: 
+  authors: C. Desgranges, J.M. Hicks, A. Magness, J. Delhommelle
+  description: 
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0378381209003501
+    display: Molecular Physics, 108, 151–158 (2010)
+  highlight: 0
+
+- title: "Vapor–liquid equilibria of copper using hybrid Monte Carlo Wang—Landau simulations"
+  image: 
+  authors: T. Aleksandrov, C. Desgranges, J. Delhommelle
+  description: 
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0378381209003501
+    display: Fluid Phase Equilibria, 287, 79-83 (2010)
+  highlight: 0
+
 - title: "Nucleation and growth of nanoparticles from the supersaturated vapor and from the undercooled liquid: A molecular simulation study"
   image: 
   authors: K. N. Ngale, C. Desgranges, J. Delhommelle
