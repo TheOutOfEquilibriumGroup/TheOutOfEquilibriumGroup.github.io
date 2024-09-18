@@ -45,6 +45,96 @@
   highlight: 1
   news1: See [Cover of PRL](https://journals.aps.org/prl/issues/120/11)
 
+- title: "Free energy calculations along entropic pathways. II. Droplet nucleation in binary mixtures"
+  image: 
+  description: 
+  authors: C. Desgranges, J. Delhommelle
+  link:
+    url: https://pubs.aip.org/aip/jcp/article/145/23/234505/317340/Free-energy-calculations-along-entropic-pathways
+    display: J. Chem. Phys. 145, 234505 (2016)
+  highlight: 0
+  
+- title: "Effect of the Composition on the Free Energy of Crystal Nucleation for CuPd Nanoalloys"
+  image: 
+  description: 
+  authors: C. Desgranges, J. Delhommelle
+  link:
+    url: https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b09672
+    display: J. Phys. Chem. C 120, 48, 27657–27664 (2016)
+  highlight: 0
+  
+- title: "Free energy calculations along entropic pathways. I. Homogeneous vapor-liquid nucleation for atomic and molecular systems"
+  image: 
+  description: 
+  authors: C. Desgranges, J. Delhommelle
+  link:
+    url: https://pubs.aip.org/aip/jcp/article/145/20/204112/281253/Free-energy-calculations-along-entropic-pathways-I
+    display: J. Chem. Phys. 145, 204112 (2016)
+  highlight: 0
+
+- title: "Evaluation of the grand-canonical partition function using expanded Wang-Landau simulations. V. Impact of an electric field on the thermodynamic properties and ideality contours of water"
+  image: 
+  description: 
+  authors: C. Desgranges, J. Delhommelle
+  link:
+    url: https://pubs.aip.org/aip/jcp/article/145/18/184504/913258/Evaluation-of-the-grand-canonical-partition
+    display: J. Chem. Phys. 145, 184504 (2016)
+  highlight: 0
+  
+- title: "Ideality contours and thermodynamic regularities in supercritical molecular fluids"
+  image: 
+  description: 
+  authors: C. Desgranges, A. Margo, J. Delhommelle
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S000926141630416X
+    display: Chemical Physics Letters 658, 37-42 (2016)
+  highlight: 0
+  
+- title: "Impact of Friedel oscillations on vapor-liquid equilibria and supercritical properties in two and three dimensions"
+  image: 
+  description: 
+  authors: C. Desgranges, L. Huber, J. Delhommelle
+  link:
+    url: https://journals.aps.org/pre/abstract/10.1103/PhysRevE.94.012612
+    display: Phys. Rev. E 94, 012612 (2016)
+  highlight: 0
+
+- title: "Scaling Laws and Critical Properties for fcc and hcp Metals"
+  image: 
+  description: 
+  authors: C. Desgranges, L. Huber, J. Delhommelle
+  link:
+    url: https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.6b04121
+    display: J. Phys. Chem. B 120, 23, 5255–5261 (2016)
+  highlight: 0
+  
+- title: "Evaluation of the grand-canonical partition function using expanded Wang-Landau simulations. IV. Performance of many-body force fields and tight-binding schemes for the fluid phases of silicon"
+  image: 
+  description: 
+  authors: C. Desgranges, J. Delhommelle
+  link:
+    url: https://pubs.aip.org/aip/jcp/article/144/12/124510/911296/Evaluation-of-the-grand-canonical-partition
+    display: J. Chem. Phys. 144, 124510 (2016)
+  highlight: 0
+
+- title: "Many-Body Effects on the Thermodynamics of Fluids, Mixtures, and Nanoconfined Fluids"
+  image: 
+  description: 
+  authors: C. Desgranges, J. Delhommelle
+  link:
+    url: https://pubs.acs.org/doi/abs/10.1021/acs.jctc.5b00693
+    display: J. Chem. Theory Comput. 11, 11, 5401–5414 (2015)
+  highlight: 0
+  
+- title: "A new force field for H2S and its binary and ternary mixtures with CO2 and CH4"
+  image: 
+  description: 
+  authors: A.N. Owen, C. Desgranges, J. Delhommelle
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0378381215002873
+    display: Fluid Phase Equilibria, 402, 69-77 (2015)
+  highlight: 0
+
 - title: "Adsorption and diffusion of the antiparkinsonian drug amantadine in carbon nanotubes"
   image: 
   description: 
