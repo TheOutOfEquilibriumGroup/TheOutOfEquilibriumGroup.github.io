@@ -65,6 +65,15 @@
     display: J. Am. Chem. Soc. 133, 9, 2872–2874 (2011)
   highlight: 1
 
+- title: "Optimisation of multiple time-step hybrid Monte Carlo Wang–Landau simulations in the isobaric–isothermal ensemble for the determination of phase equilibria"
+  image: 
+  authors: C. Desgranges, E.A. Kastl, T. Aleksandrov, J. Delhommelle
+  description: 
+  link:
+    url: https://www.tandfonline.com/doi/abs/10.1080/08927021003762738
+    display: Molecular Simulation, 36(7–8), 544–551 (2010)
+  highlight: 0
+
 - title: "Phase equilibria of polyaromatic hydrocarbons by hybrid Monte Carlo Wang–Landau simulations"
   image: 
   authors: C. Desgranges, J.M. Hicks, A. Magness, J. Delhommelle
