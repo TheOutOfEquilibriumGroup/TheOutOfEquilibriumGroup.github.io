@@ -1,7 +1,7 @@
 
 - title: "Accelerated convergence via adiabatic sampling for adsorption and desorption processes"
   image: Convergence.jpg
-  description:  Here, we leverage simulations in an adiabatic statistical ensemble, known as adiabatic grand-isochoric ensemble (μ, V, L) ensemble, to reach equilibrium states with a greater efficiency than its isothermal counterpart, i.e., simulations in the grand-canonical ensemble.
+  description: Here, we leverage simulations in an adiabatic statistical ensemble, known as adiabatic grand-isochoric ensemble (μ, V, L) ensemble, to reach equilibrium states with a greater efficiency than its isothermal counterpart, i.e., simulations in the grand-canonical ensemble.
   authors: C. Desgranges, J. Delhommelle
   link:
     url: https://pubs.aip.org/aip/jcp/article-abstract/161/10/104104/3311748/Accelerated-convergence-via-adiabatic-sampling-for?redirectedFrom=fulltext
@@ -41,7 +41,7 @@
   authors: C. Desgranges, J. Delhommelle
   link:
     url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.115701
-    display:  Phys. Rev. Lett. 120, 115701 (2018)
+    display: Phys. Rev. Lett. 120, 115701 (2018)
   highlight: 1
   news2: [Cover of PRL](https://journals.aps.org/prl/issues/120/11)
 
@@ -51,7 +51,7 @@
   authors: C. Desgranges, J. Delhommelle
   link:
     url: https://pubs.acs.org/doi/abs/10.1021/ja500621m
-    display:  J. Am. Chem. Soc. 136, 23, 8145–8148 (2014)
+    display: J. Am. Chem. Soc. 136, 23, 8145–8148 (2014)
   highlight: 1
   news2: [Cover of JACS](https://pubs.acs.org/toc/jacsat/136/23)
   news2: [Spotlight: Revealing the Magic behind Nanoscale Crystallization by Jenny Morber](https://pubs.acs.org/doi/full/10.1021/ja505351b)
@@ -62,7 +62,7 @@
   authors: C. Desgranges, J. Delhommelle
   link:
     url: https://pubs.acs.org/doi/abs/10.1021/ja1117478
-    display:  J. Am. Chem. Soc. 133, 9, 2872–2874 (2011)
+    display: J. Am. Chem. Soc. 133, 9, 2872–2874 (2011)
   highlight: 1
 
 - title: "Controlling Polymorphism during the Crystallization of an Atomic Fluid"
