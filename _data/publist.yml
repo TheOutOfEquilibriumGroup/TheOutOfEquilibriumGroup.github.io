@@ -65,6 +65,51 @@
     display: J. Am. Chem. Soc. 133, 9, 2872–2874 (2011)
   highlight: 1
 
+- title: "Nucleation and growth of nanoparticles from the supersaturated vapor and from the undercooled liquid: A molecular simulation study"
+  image: 
+  authors: K. N. Ngale, C. Desgranges, J. Delhommelle
+  description: 
+  link:
+    url: https://pubs.aip.org/aip/jcp/article-abstract/131/24/244515/190009/Nucleation-and-growth-of-C60-nanoparticles-from?redirectedFrom=fulltext
+    display: J. Chem. Phys. 131, 244515 (2009)
+  highlight: 0
+
+- title: "Phase equilibria of molecular fluids via hybrid Monte Carlo Wang–Landau simulations: Applications to benzene and n-alkanes"
+  image: 
+  authors: C. Desgranges, J. Delhommelle
+  description: 
+  link:
+    url: https://pubs.aip.org/aip/jcp/article-abstract/130/24/244109/188741/Phase-equilibria-of-molecular-fluids-via-hybrid?redirectedFrom=fulltext
+    display: J. Chem. Phys. 130, 244109 (2009)
+  highlight: 0
+
+- title: "Universal scaling law for energy and pressure in a shearing fluid"
+  image: 
+  authors: C. Desgranges, J. Delhommelle
+  description: 
+  link:
+    url: https://journals.aps.org/pre/abstract/10.1103/PhysRevE.79.052201
+    display: Phys. Rev. E 79, 052201 (2009)
+  highlight: 0
+
+- title: "Accurate determination of normal stress differences via transient-time correlation function – non-equilibrium molecular dynamics (TTCF–NEMD) simulations"
+  image: 
+  authors: C. Desgranges, J. Delhommelle
+  description: 
+  link:
+    url: https://www.tandfonline.com/doi/abs/10.1080/08927020802575598
+    display: Molecular Simulation, 35(5), 405–408 (2009)
+  highlight: 0
+
+- title: "Molecular Simulation of the Nucleation and Growth of Gold Nanoparticles"
+  image: 
+  authors: C. Desgranges, J. Delhommelle
+  description: 
+  link:
+    url: https://pubs.acs.org/doi/abs/10.1021/jp8101546
+    display: J. Phys. Chem. C 113, 9, 3607–3611 (2009)
+  highlight: 0
+
 - title: "Rheology of liquid fcc metals: Equilibrium and transient-time correlation-function nonequilibrium molecular dynamics simulations"
   image: 
   authors: C. Desgranges, J. Delhommelle
