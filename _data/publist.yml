@@ -1,11 +1,11 @@
 
-- title: "Why shot noise does not generally detect pairing in mesoscopic superconducting tunnel junctions"
-  image: ShotNoise.png
-  description: Can mesoscopic shot noise experiments show the doubling of the charge carriers in a superconductor? Turns out, it's complicated. We investigated this in several different samples, and made predictions as to what is necessary to make this work.
-  authors: Jiasen Niu, Koen M. Bastiaans, Jianfeng Ge, Ruchi Tomar, John Jesudasan, Pratap Raychaudhuri, Max Karrer, Reinhold Kleiner, Dieter Koelle, Arnaud Barbier, Eduard F.C. Driessen, Yaroslav M. Blanter, Milan P. Allan
+- title: "Accelerated convergence via adiabatic sampling for adsorption and desorption processes"
+  image: Convergence.jpg
+  description:  Here, we leverage simulations in an adiabatic statistical ensemble, known as adiabatic grand-isochoric ensemble (μ, V, L) ensemble, to reach equilibrium states with a greater efficiency than its isothermal counterpart, i.e., simulations in the grand-canonical ensemble.
+  authors: C. Desgranges, J. Delhommelle
   link:
-    url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.076001
-    display: Phys. Rev. Lett. 132, 076001 (Editors' Suggestion)
+    url: https://pubs.aip.org/aip/jcp/article-abstract/161/10/104104/3311748/Accelerated-convergence-via-adiabatic-sampling-for?redirectedFrom=fulltext
+    display: J. Phys. Chem. 161, 104104 (2024) (Editors' Pick)
   highlight: 1
 
 - title: "Single-electron charge transfer into putative Majorana and trivial modes in individual vortices"
