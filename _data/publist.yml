@@ -45,6 +45,33 @@
   highlight: 1
   news1: See [Cover of PRL](https://journals.aps.org/prl/issues/120/11)
 
+- title: "Adsorption and diffusion of the antiparkinsonian drug amantadine in carbon nanotubes"
+  image: 
+  description: 
+  authors: E. Hicks, C. Desgranges, J. Delhommelle
+  link:
+    url: https://www.tandfonline.com/doi/abs/10.1080/08927022.2013.841908
+    display: Molecular Simulation, 40(7–9), 656–663 (2014)
+  highlight: 0
+
+- title: "Evaluation of the grand-canonical partition function using expanded Wang-Landau simulations. III. Impact of combining rules on mixtures properties"
+  image: 
+  description: 
+  authors: C. Desgranges, J. Delhommelle
+  link:
+    url: https://pubs.aip.org/aip/jcp/article-abstract/140/10/104109/351709/Evaluation-of-the-grand-canonical-partition?redirectedFrom=fulltext
+    display: J. Chem. Phys. 140, 104109 (2014)
+  highlight: 0
+  
+- title: "Thermodynamics of Phase Coexistence and Metal–Nonmetal Transition in Mercury: Assessment of Effective Potentials via Expanded Wang–Landau Simulations"
+  image: 
+  description: 
+  authors: C. Desgranges, J. Delhommelle
+  link:
+    url: https://pubs.acs.org/doi/abs/10.1021/jp500577t
+    display: J. Phys. Chem. B 118, 11, 3175–3182 (2014)
+  highlight: 0
+
 - title: "Unraveling the Coupling between Demixing and Crystallization in Mixtures"
   image: Mixtures.jpg
   description: Using molecular simulation, we shed light on the coupling between the two nonequilibrium processes of demixing and crystallization in mixtures of fully miscible, size-matched, liquid metals.
@@ -55,6 +82,15 @@
   highlight: 1
   news1: See [Cover of JACS](https://pubs.acs.org/toc/jacsat/136/23)
   news2: See [Revealing the Magic behind Nanoscale Crystallization by Jenny Morber](https://pubs.acs.org/doi/full/10.1021/ja505351b)
+
+- title: "Adsorption of hydrogen in covalent organic frameworks using expanded Wang–Landau simulations"
+  image: 
+  description: 
+  authors: A.R.V. Koenig, C. Desgranges, J. Delhommelle
+  link:
+    url: https://www.tandfonline.com/doi/abs/10.1080/08927022.2013.841907
+    display: Molecular Simulation, 40(1–3), 71–79. (2013)
+  highlight: 0
 
 - title: "Characterization and Comparison of the Performance of IRMOF-1, IRMOF-8, and IRMOF-10 for CO2 Adsorption in the Subcritical and Supercritical Regimes"
   image: 
