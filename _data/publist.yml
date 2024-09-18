@@ -35,13 +35,13 @@
     display: Phys. Rev. E 98, 063307 (2018)
   highlight: 1
 
-- title: "Imaging moiré deformation and dynamics in twisted bilayer graphene"
-  image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: TA de Jong, T Benschop, X Chen, EE Krasovskii, MJA de Dood, RM Tromp,  MP Allan, SJ van der Molen
+- title: "Unusual Crystallization Behavior Close to the Glass Transition"
+  image: Unusual.jpg
+  description:  Using molecular simulations, we shed light on the mechanism underlying crystal nucleation in metal alloys and unravel the interplay between crystal nucleation and glass transition, as the conditions of crystallization lie close to this transition.
+  authors: C. Desgranges, J. Delhommelle
   link:
-    url: https://www.nature.com/articles/s41467-021-27646-1
-    display:  Nat Comm 13, 70 (2022)
+    url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.115701
+    display:  Phys. Rev. Lett. 120, 115701 (2018)
   highlight: 0
   news2:
 
@@ -53,7 +53,7 @@
     url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153
     display:  Phys. Rev. Research 3, 013153 (2021)
   highlight: 1
-  news2: See also [Nat Comm with the group of van der Molen](https://arxiv.org/abs/2107.14716)
+  news2: [Cover of PRL](https://journals.aps.org/prl/issues/120/11)
 
 - title: "Spatially dispersing Yu-Shiba-Rusinov states in the unconventional superconductor FeTe0.55Se0.45"
   image: YSR.png
