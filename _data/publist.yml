@@ -26,7 +26,7 @@
     display: Phys. Rev. Lett. 123, 195701 (2019) 
   highlight: 1
 
-- title: "Crystal nucleation along an entropic pathway Teaching liquids how to transition"
+- title: "Crystal nucleation along an entropic pathway: Teaching liquids how to transition"
   image: Entropypath.jpg
   description: We combine ML with Monte Carlo simulations to study the crystal nucleation process. By taking entropy as a reaction coordinate and using the umbrella sampling technique, we are able to determine the Gibbs free energy profile for the crystal nucleation process. The approach developed here can be readily extended to molecular systems and complex fluids, and is especially promising for the study of entropy-driven processes.
   authors: C. Desgranges, J. Delhommelle
@@ -53,8 +53,8 @@
     url: https://pubs.acs.org/doi/abs/10.1021/ja500621m
     display: J. Am. Chem. Soc. 136, 23, 8145–8148 (2014)
   highlight: 1
-  news2: [Cover of JACS](https://pubs.acs.org/toc/jacsat/136/23)
-  news2: [Spotlight: Revealing the Magic behind Nanoscale Crystallization by Jenny Morber](https://pubs.acs.org/doi/full/10.1021/ja505351b)
+  news1: See [Cover of JACS](https://pubs.acs.org/toc/jacsat/136/23)
+  news2: See [Spotlight: Revealing the Magic behind Nanoscale Crystallization by Jenny Morber](https://pubs.acs.org/doi/full/10.1021/ja505351b)
 
 - title: "Role of Liquid Polymorphism during the Crystallization of Silicon"
   image: Role.jpg
@@ -101,5 +101,5 @@
   link:
     url: https://pubs.acs.org/doi/abs/10.1021/ja063218f
     display: J. Am. Chem. Soc. 128, 32, 10368–10369 (2006)
-  highlight: 0
+  highlight: 1
   news2:
