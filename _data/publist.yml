@@ -56,6 +56,69 @@
   news1: See [Cover of JACS](https://pubs.acs.org/toc/jacsat/136/23)
   news2: See [Revealing the Magic behind Nanoscale Crystallization by Jenny Morber](https://pubs.acs.org/doi/full/10.1021/ja505351b)
 
+- title: "Characterization and Comparison of the Performance of IRMOF-1, IRMOF-8, and IRMOF-10 for CO2 Adsorption in the Subcritical and Supercritical Regimes"
+  image: 
+  description: 
+  authors: J. M. Hicks, C. Desgranges, J. Delhommelle
+  link:
+    url: https://pubs.acs.org/doi/abs/10.1021/jp307319u
+    display: J. Phys. Chem. C 116, 43, 22938–22946 (2012)
+  highlight: 0
+  
+- title: "Numerical estimate for boiling points via Wang–Landau simulations"
+  image: 
+  description: 
+  authors: T. Aleksandrov, C. Desgranges, J. Delhommelle
+  link:
+    url: https://www.tandfonline.com/doi/abs/10.1080/08927022.2012.702906
+    display: Molecular Simulation, 38(14–15), 1265–1270 (2012)
+  highlight: 0
+  
+- title: "Wang–Landau configurational bias Monte Carlo simulations: vapour–liquid equilibria of alkenes"
+  image: 
+  description: 
+  authors: K. Ndumbe Ngale, C. Desgranges, J. Delhommelle
+  link:
+    url: https://www.tandfonline.com/doi/abs/10.1080/08927022.2012.694432
+    display: Molecular Simulation, 38(8–9), 653–658 (2012)
+  highlight: 0
+  
+- title: "Prediction of critical properties for naphthacene, triphenylene and chrysene by Wang–Landau simulations"
+  image: 
+  description: 
+  authors: C. Desgranges, K. Ndumbe Ngale, J. Delhommelle
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0378381212001252
+    display: Fluid Phase Equilibria, 322–323, 92-96, (2012)
+  highlight: 0
+  
+- title: "Prediction of critical properties for naphthacene, triphenylene and chrysene by Wang–Landau simulations"
+  image: 
+  description: 
+  authors: C. Desgranges, K. Ndumbe Ngale, J. Delhommelle
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0378381212001252
+    display: Fluid Phase Equilibria, 322–323, 92-96, (2012)
+  highlight: 0
+  
+- title: "Evaluation of the grand-canonical partition function using expanded Wang-Landau simulations. II. Adsorption of atomic and molecular fluids in a porous material"
+  image: 
+  description: 
+  authors: C. Desgranges, J. Delhommelle
+  link:
+    url: https://pubs.aip.org/aip/jcp/article-abstract/136/18/184108/190576/Evaluation-of-the-grand-canonical-partition?redirectedFrom=fulltext
+    display: J. Chem. Phys. 136, 184108 (2012)
+  highlight: 0
+  
+- title: "Evaluation of the grand-canonical partition function using expanded Wang-Landau simulations. I. Thermodynamic properties in the bulk and at the liquid-vapor phase boundary"
+  image: 
+  description: 
+  authors: C. Desgranges, J. Delhommelle
+  link:
+    url: https://pubs.aip.org/aip/jcp/article-abstract/136/18/184107/190588/Evaluation-of-the-grand-canonical-partition?redirectedFrom=fulltext
+    display: J. Chem. Phys. 136, 184107 (2012)
+  highlight: 0
+  
 - title: "Polymorph selection during the crystallization of iron under the conditions of Earth’s inner core"
   image: 
   description: 
