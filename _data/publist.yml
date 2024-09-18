@@ -28,7 +28,7 @@
 
 - title: "Crystal nucleation along an entropic pathway: Teaching liquids how to transition"
   image: Entropypath.jpg
-  description: We combine machine learning (ML) with Monte Carlo (MC) simulations to study the crystal nucleation process. By taking entropy as a reaction coordinate and using the umbrella sampling technique, we are able to determine the Gibbs free energy profile for the crystal nucleation process. In particular, we obtain a free energy barrier in very good agreement with the results from previous simulation studies. The approach developed here can be readily extended to molecular systems and complex fluids, and is especially promising for the study of entropy-driven processes.
+  description: We combine machine learning (ML) with Monte Carlo (MC) simulations to study the crystal nucleation process. By taking entropy as a reaction coordinate and using the umbrella sampling technique, we are able to determine the Gibbs free energy profile for the crystal nucleation process. The approach developed here can be readily extended to molecular systems and complex fluids, and is especially promising for the study of entropy-driven processes.
   authors: C. Desgranges, J. Delhommelle
   link:
     url: https://journals.aps.org/pre/abstract/10.1103/PhysRevE.98.063307
