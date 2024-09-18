@@ -103,26 +103,3 @@
     display:   J. Am. Chem. Soc. 128, 32, 10368–10369 (2006)
   highlight: 0
   news2:
-
-
-
-- title: Tunable  self-assembly of one-dimensional nanostructures with orthogonal directions
-  image: Pub_hBN.png
-  description:
-    Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
-  authors:
-    MP Allan, S Berner, M Corso, T Greber, J Osterwalder
-  link:
-    url: https://link.springer.com/article/10.1007/s11671-006-9036-2
-    display: Nanoscale Research Letters 2, 94 (2007)
-  highlight: 1
-
-- title: Photoelectron Diffraction for a Look inside Nanostructures
-  image: dummy.png
-  description: ""
-  authors:
-    J Osterwalder, A Tamai, W Auwärter; MP Allan, T Greber
-  link:
-    url: hhttp://www.ingentaconnect.com/content/scs/chimia/2006/00000060/00000011/art00013
-    display: CHIMIA 11, 759 (2006)
-  highlight: 0
