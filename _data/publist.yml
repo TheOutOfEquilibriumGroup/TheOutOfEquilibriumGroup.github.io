@@ -37,31 +37,32 @@
 
 - title: "Unusual Crystallization Behavior Close to the Glass Transition"
   image: Unusual.jpg
-  description:  Using molecular simulations, we shed light on the mechanism underlying crystal nucleation in metal alloys and unravel the interplay between crystal nucleation and glass transition, as the conditions of crystallization lie close to this transition.
+  description: Using molecular simulations, we shed light on the mechanism underlying crystal nucleation in metal alloys and unravel the interplay between crystal nucleation and glass transition, as the conditions of crystallization lie close to this transition.
   authors: C. Desgranges, J. Delhommelle
   link:
     url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.115701
     display:  Phys. Rev. Lett. 120, 115701 (2018)
   highlight: 0
-  news2:
-
-- title: "Measuring local moiré lattice heterogeneity of twisted bilayer graphene"
-  image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: T Benschop *, TA de Jong*, P Stepanov*, Xiaobo Lu, V Stalman, SJ van der Molen, DK Efetov, MP Allan
-  link:
-    url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153
-    display:  Phys. Rev. Research 3, 013153 (2021)
-  highlight: 1
   news2: [Cover of PRL](https://journals.aps.org/prl/issues/120/11)
 
-- title: "Spatially dispersing Yu-Shiba-Rusinov states in the unconventional superconductor FeTe0.55Se0.45"
-  image: YSR.png
-  description: We report on a peculiar, spatially dispersing YSR state in Fe(Se,Te) that can be tuned by the tip.
-  authors: D Chatzopoulos, Doohee Cho, KM Bastiaans, GO Steffensen, D Bouwmeester, A Akbari, Genda Gu, J Paaske, BM Andersen, MP Allan
+- title: "Unraveling the Coupling between Demixing and Crystallization in Mixtures"
+  image: Mixtures.jpg
+  description: Using molecular simulation, we shed light on the coupling between the two nonequilibrium processes of demixing and crystallization in mixtures of fully miscible, size-matched, liquid metals.
+  authors: C. Desgranges, J. Delhommelle
   link:
-    url: https://www.nature.com/articles/s41467-020-20529-x
-    display:  Nature Communications 12, 298 (2021)
+    url: https://pubs.acs.org/doi/abs/10.1021/ja500621m
+    display:  J. Am. Chem. Soc. 136, 23, 8145–8148 (2014)
+  highlight: 1
+  news2: [Cover of JACS](https://pubs.acs.org/toc/jacsat/136/23)
+  news2: [Spotlight: Revealing the Magic behind Nanoscale Crystallization by Jenny Morber](https://pubs.acs.org/doi/full/10.1021/ja505351b)
+
+- title: "Role of Liquid Polymorphism during the Crystallization of Silicon"
+  image: Role.jpg
+  description: When undercooled at a temperature 20% below the melting point, a silicon melt is under the form of the highly coordinated, high-density liquid (HDL) polymorph. We find that crystallization starts with the formation, within the HDL liquid, of a nanosized droplet of the least stable liquid polymorph, known as the almost tetracoordinated low-density liquid (LDL) polymorph.
+  authors: C. Desgranges, J. Delhommelle
+  link:
+    url: https://pubs.acs.org/doi/abs/10.1021/ja1117478
+    display:  J. Am. Chem. Soc. 133, 9, 2872–2874 (2011)
   highlight: 1
 
 - title: "Multi-Atom Quasiparticle Scattering Interference for Superconductor Energy-Gap Symmetry Determination"
