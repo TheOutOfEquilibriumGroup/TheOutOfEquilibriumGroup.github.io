@@ -47,6 +47,10 @@ firstp {
 }
 
 /* Home, News */
+#homeid,
+#newsid {
+  margin-top: 40px; /* adjust between 40–60px as needed */
+}
 #newsid p {
 	text-align: left;
 }
