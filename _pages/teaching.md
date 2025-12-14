@@ -6,6 +6,9 @@ sitemap: false
 permalink: /teaching/
 ---
 
+# Teaching
+
+
 # Spring 2026
 
 ## PHYS.6165: Graduate Quantum Mechanics
