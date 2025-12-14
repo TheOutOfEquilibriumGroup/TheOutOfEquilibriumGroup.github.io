@@ -6,6 +6,11 @@ sitemap: false
 permalink: /
 ---
 
+The Out of Equilibrium Group @ UML explores the physics of systems driven far from equilibrium, from quantum computation to active matter. Our research connects statistical mechanics, topology, and machine learning to understand how complexity, information, and order emerge in dynamic environments.
+
+Current themes include superstatistics, quantum and classical machine learning (including quantum-enhanced Boltzmann machines and quantum control), anyons and time crystals, out-of-equilibrium thermodynamics, entropy production, dissipation, and active matter self-organization. 
+
+We apply these ideas to both fundamental physics and real-world problems, from quantum sensing to biomedical imaging.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -53,11 +58,6 @@ permalink: /
 
  **We are looking for passionate new PhD students, Postdocs, and Master students to join the team !**
 
-The Out of Equilibrium Group @ UML explores the physics of systems driven far from equilibrium, from quantum computation to active matter. Our research connects statistical mechanics, topology, and machine learning to understand how complexity, information, and order emerge in dynamic environments.
-
-Current themes include superstatistics, quantum and classical machine learning (including quantum-enhanced Boltzmann machines and quantum control), anyons and time crystals, out-of-equilibrium thermodynamics, entropy production, dissipation, and active matter self-organization. 
-
-We apply these ideas to both fundamental physics and real-world problems, from quantum sensing to biomedical imaging.
 
 
 <figure class="fourth">
