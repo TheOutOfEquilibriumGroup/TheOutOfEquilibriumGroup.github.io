@@ -8,34 +8,55 @@ permalink: /research/
 
 # Research
 
-The Out Of Equilibrium Group @ UML is interested in superstatistics, randomness, machine learning, topology, algorithm development, adiabatic statistical ensembles, and active matter.
+The Out of Equilibrium Group @ UML
+The Out of Equilibrium Group at the University of Massachusetts Lowell explores the physics and mathematics of systems driven far from equilibrium. We study how complexity, fluctuations, and information processing emerge across different scales — from quantum materials and active matter to machine learning and algorithmic dynamics.
 
-Here are some themes and techniques that we currently work on:
+Our research branches across several interconnected themes:
 
-**Superstatistics.** Superstatistics is a combination of two different statistics related to driven nonequilibrium systems with a stationary state and intensive parameter fluctuations. It includes Tsallis statistics as a special case.
+**Superstatistics.** Superstatistics provides a framework for understanding driven nonequilibrium systems with slowly varying intensive parameters. It combines local equilibrium statistics with large-scale fluctuations — extending traditional thermodynamics and encompassing Tsallis statistics as a special case. This approach offers insight into complex behavior observed in turbulence, biological systems, and quantum dynamics.
 
+**Restricted Boltzmann Machines and Nonequilibrium Thermodynamics.** We investigate Boltzmann machines and restricted Boltzmann machines (RBMs) as models of nonequilibrium thermodynamics. These generative neural networks provide a statistical mechanics perspective on learning, energy landscapes, and stochastic relaxation.
+Our current focus includes:
 
-**Generative Machine Learning.** Boltzmann Machine is a generative unsupervised model.
+* Thermodynamics out of equilibrium: Understanding learning dynamics as entropy-producing processes.
 
-**Combining AI/ML methods and fluorescence polarization approach for cancer diagnosis**.
-<!--![]({{ site.url }}{{ site.baseurl }}/images/respic/SmartTip.png){: style="width: 250px; float: left; margin: 0px  10px"}-->
-In collaboration with the Yaroslavsky's group, we develop theoretical frameworks, new physics-informed machine learning, and artificial intelligence algorithms for biomedical optical imaging and novel image-guided intervention techniques in cancer research
+* Entropy production and information flow: Quantifying how learning dissipates energy and drives order formation.
 
-**Control Strategies for Open Quantum Dynamics - A Combined Deep learning Theoretical Physics Approach.** The goal of this project is to create strategies that can control correlated noise to perform quantum operations like single and two-qubit gates. It's essential to understand how the environment affects an out-of-equilibrium quantum system to build a fault-tolerant quantum computer and develop high-sensitivity sensors. This is done in collaboration with the Ribeiro's group.
+* Dissipation and efficiency: Exploring analogies between biological computation and machine learning energy costs.
 
-**Quantum-enhanced Monte Carlo simulations.**  <!--![]({{ site.url }}{{ site.baseurl }}/images/respic/STMHead.png){: style="width: 250px; float: right; margin: 0px 10px"}-->
-In the future, quantum computers could provide faster solutions for sampling problems than classical computers. Developing and testing new quantum algorithms could lead to significant speedup and solve bottleneck issues in machine learning, statistical physics, and optimization problems.
+**Quantum Machine Learning and Quantum Information**. We develop quantum machine learning (QML) algorithms that exploit quantum parallelism and entanglement to accelerate generative modeling and inference. Our current directions include:
 
-**Active matter assemble into reconfigurable nonequilibrium structures.** ![]({{ site.url }}{{ site.baseurl }}/images/respic/SoftMatter.jpg){: style="width: 50%; float: center; margin: 10px"}
+* Quantum-enhanced Boltzmann machines for high-dimensional sampling.
 
-With the MSNEP group, we investigate how active fluids respond to spatial light patterns through simulations and experiments on light-activated self-propelled colloidal particles.
+* Hybrid quantum-classical learning applied to open quantum systems.
 
-**Active matter and colored noise.**
-The study of the motion of small particles suspended in a fluid ad moving under the influence of random forces resulting from collisions with fluid molecules induced by thermal fluctuations is known as Browninan motion. The thermal fluctuations occur on a much shorter timescale than that of the Brownian particle. Therefore, it is a good approximation to assume that the random forces are delta functions that are uncorrelated, as perceived by the particle on its own, much slower time scale. However in reality, this is never exactly the case.
+* Control and mitigation of correlated quantum noise through AI-driven feedback.
 
-**The central role of entropy in adiabatic ensembles.**
-Using the principles of statistical mechanics and thermodynamics, we can define eight different ensembles. In addition to the Guggenheim ensemble (the "fifth" statistical ensemble), one can modify the thermodynamic constratints to define three additional statistical ensembles. Brown, Hill, and Ray developed the isoenthalpic-isobaric ensemble (N,P,H), the grand-isochoric adaibatic ensemble (\mu,V,L) ensemble, and the grand-isobaric adiabatic ensemble (\mu,P,R) ensemble, using the Legendre-Laplace mapping procedure. Together with the microcanonical ensemble, they form a set of 4 adiabatic ensembles in which the value of a heat function os constant rather than the temperature.
+**Control Strategies for Open Quantum Dynamics.** In collaboration with Ribeiro’s group, we design optimal control strategies for open quantum systems using deep learning. Our goal is to counteract decoherence and correlated noise for precise single- and two-qubit gate operations — essential for fault-tolerant quantum computing and quantum sensing. This research bridges nonequilibrium quantum thermodynamics and machine learning control theory.
+
+**Anyons, Time Crystals, and Topological Phenomena.**  We explore topological phases of matter and their dynamic properties under nonequilibrium conditions. Topics include:
+
+* Anyons and non-Abelian excitations in fractional quantum systems.
+
+* Time crystals — periodically driven systems that spontaneously break time-translation symmetry.
+
+* Topological entropy and emergent order in dissipative and actively driven media.
+
+These efforts connect topology, statistical mechanics, and algorithmic learning to reveal new modes of organization in complex physical systems.
+
+**Active Matter and Nonequilibrium Self-Assembly.** In collaboration with the MSNEP group, we study active matter, where individual components consume energy to generate collective motion. Using simulations and experiments on light-activated self-propelled colloids, we investigate how activity and fluctuations lead to emergent behavior, reconfigurable structures, and pattern formation in nonequilibrium conditions.
+
+We also examine how colored noise impacts stochastic transport and how deviations from white-noise assumptions influence motion in fluctuating environments.
+
+**The Central Role of Entropy in Adiabatic Ensembles.** Using advanced statistical mechanics frameworks, we revisit the thermodynamics of adiabatic ensembles — including the microcanonical, isoenthalpic-isobaric (N,P,H), grand-isochoric adiabatic (\mu,V,L), and grand-isobaric adiabatic (\mu,P,R) ensembles.
+By extending Legendre-Laplace transformations, we explore how entropy governs equilibrium and nonequilibrium constraints, linking thermodynamic geometry to emergent learning dynamics and information transfer.
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/Convergence.jpg){: style="width: 50%; float: center; margin: 0px"}
 
-### ... and more.
+**Quantum-Enhanced Monte Carlo Simulations.** We develop quantum-enhanced Monte Carlo algorithms to accelerate sampling in statistical physics, optimization, and generative modeling. Quantum processors offer potential speedups via superposition and interference, opening new paths to simulate complex probability landscapes inaccessible to classical computation.
+
+**Biomedical Applications.** In collaboration with Yaroslavsky’s group, we develop physics-informed machine learning and fluorescence polarization approaches for biomedical optical imaging. Our AI frameworks improve cancer diagnostics and treatment planning by merging theoretical modeling, image analysis, and experimental data.
+
+### ... and Beyond
+
+We continue to push the boundaries of nonequilibrium science — connecting information, energy, and matter through interdisciplinary approaches at the interface of physics, computation, and biology.
