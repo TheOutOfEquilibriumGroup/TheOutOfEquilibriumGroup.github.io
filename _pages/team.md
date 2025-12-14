@@ -8,7 +8,7 @@ permalink: /team/
 
 # Group Members
 
- **We are looking for new PhD students, Postdocs, and Master students to join the team**!**
+ **We are looking for new PhD students, Postdocs, and Master students to join the team!**
 
 
 Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni).
