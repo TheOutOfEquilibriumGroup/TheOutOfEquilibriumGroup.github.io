@@ -47,7 +47,7 @@ These efforts connect topology, statistical mechanics, and algorithmic learning 
 
 We also examine how colored noise impacts stochastic transport and how deviations from white-noise assumptions influence motion in fluctuating environments.
 
-**The Central Role of Entropy in Adiabatic Ensembles.** Using advanced statistical mechanics frameworks, we revisit the thermodynamics of adiabatic ensembles, including the microcanonical, isoenthalpic-isobaric (N,P,H), grand-isochoric adiabatic (\mu,V,L), and grand-isobaric adiabatic (\mu,P,R) ensembles.
+**The Central Role of Entropy in Adiabatic Ensembles.** Using advanced statistical mechanics frameworks, we revisit the thermodynamics of adiabatic ensembles, including the microcanonical, isoenthalpic-isobaric (N,P,H), grand-isochoric adiabatic (&mu,V,L), and grand-isobaric adiabatic (&mu,P,R) ensembles.
 By extending Legendre-Laplace transformations, we explore how entropy governs equilibrium and nonequilibrium constraints, linking thermodynamic geometry to emergent learning dynamics and information transfer.
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/Convergence.jpg){: style="width: 50%; float: center; margin: 0px"}
