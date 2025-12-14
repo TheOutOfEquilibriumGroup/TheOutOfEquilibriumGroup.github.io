@@ -9,7 +9,7 @@ permalink: /research/
 # Research
 
 The Out of Equilibrium Group @ UML
-The Out of Equilibrium Group at the University of Massachusetts Lowell explores the physics and mathematics of systems driven far from equilibrium. We study how complexity, fluctuations, and information processing emerge across different scales — from quantum materials and active matter to machine learning and algorithmic dynamics.
+The Out of Equilibrium Group at the University of Massachusetts Lowell explores the physics and mathematics of systems driven far from equilibrium. We study how complexity, fluctuations, and information processing emerge across different scales, from quantum materials and active matter to machine learning and algorithmic dynamics.
 
 Our research branches across several interconnected themes:
 
