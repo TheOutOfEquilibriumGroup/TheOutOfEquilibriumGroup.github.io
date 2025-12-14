@@ -13,7 +13,7 @@ The Out of Equilibrium Group at the University of Massachusetts Lowell explores 
 
 Our research branches across several interconnected themes:
 
-**Superstatistics.** Superstatistics provides a framework for understanding driven nonequilibrium systems with slowly varying intensive parameters. It combines local equilibrium statistics with large-scale fluctuations — extending traditional thermodynamics and encompassing Tsallis statistics as a special case. This approach offers insight into complex behavior observed in turbulence, biological systems, and quantum dynamics.
+**Superstatistics.** Superstatistics provides a framework for understanding driven nonequilibrium systems with slowly varying intensive parameters. It combines local equilibrium statistics with large-scale fluctuations, extending traditional thermodynamics and encompassing Tsallis statistics as a special case. This approach offers insight into complex behavior observed in turbulence, biological systems, and quantum dynamics.
 
 **Restricted Boltzmann Machines and Nonequilibrium Thermodynamics.** We investigate Boltzmann machines and restricted Boltzmann machines (RBMs) as models of nonequilibrium thermodynamics. These generative neural networks provide a statistical mechanics perspective on learning, energy landscapes, and stochastic relaxation.
 Our current focus includes:
