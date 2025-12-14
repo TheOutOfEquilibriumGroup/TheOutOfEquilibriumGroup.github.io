@@ -32,13 +32,13 @@ Our current focus includes:
 
 * Control and mitigation of correlated quantum noise through AI-driven feedback.
 
-**Control Strategies for Open Quantum Dynamics.** In collaboration with Ribeiro’s group, we design optimal control strategies for open quantum systems using deep learning. Our goal is to counteract decoherence and correlated noise for precise single- and two-qubit gate operations — essential for fault-tolerant quantum computing and quantum sensing. This research bridges nonequilibrium quantum thermodynamics and machine learning control theory.
+**Control Strategies for Open Quantum Dynamics.** In collaboration with Ribeiro’s group, we design optimal control strategies for open quantum systems using deep learning. Our goal is to counteract decoherence and correlated noise for precise single- and two-qubit gate operations, essential for fault-tolerant quantum computing and quantum sensing. This research bridges nonequilibrium quantum thermodynamics and machine learning control theory.
 
 **Anyons, Time Crystals, and Topological Phenomena.**  We explore topological phases of matter and their dynamic properties under nonequilibrium conditions. Topics include:
 
 * Anyons and non-Abelian excitations in fractional quantum systems.
 
-* Time crystals — periodically driven systems that spontaneously break time-translation symmetry.
+* Time crystals: periodically driven systems that spontaneously break time-translation symmetry.
 
 * Topological entropy and emergent order in dissipative and actively driven media.
 
@@ -48,7 +48,7 @@ These efforts connect topology, statistical mechanics, and algorithmic learning 
 
 We also examine how colored noise impacts stochastic transport and how deviations from white-noise assumptions influence motion in fluctuating environments.
 
-**The Central Role of Entropy in Adiabatic Ensembles.** Using advanced statistical mechanics frameworks, we revisit the thermodynamics of adiabatic ensembles — including the microcanonical, isoenthalpic-isobaric (N,P,H), grand-isochoric adiabatic (\mu,V,L), and grand-isobaric adiabatic (\mu,P,R) ensembles.
+**The Central Role of Entropy in Adiabatic Ensembles.** Using advanced statistical mechanics frameworks, we revisit the thermodynamics of adiabatic ensembles, including the microcanonical, isoenthalpic-isobaric (N,P,H), grand-isochoric adiabatic (\mu,V,L), and grand-isobaric adiabatic (\mu,P,R) ensembles.
 By extending Legendre-Laplace transformations, we explore how entropy governs equilibrium and nonequilibrium constraints, linking thermodynamic geometry to emergent learning dynamics and information transfer.
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/Convergence.jpg){: style="width: 50%; float: center; margin: 0px"}
@@ -59,4 +59,4 @@ By extending Legendre-Laplace transformations, we explore how entropy governs eq
 
 ### ... and Beyond
 
-We continue to push the boundaries of nonequilibrium science — connecting information, energy, and matter through interdisciplinary approaches at the interface of physics, computation, and biology.
+We continue to push the boundaries of nonequilibrium science, connecting information, energy, and matter through interdisciplinary approaches at the interface of physics, computation, and biology.
