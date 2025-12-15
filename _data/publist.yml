@@ -49,7 +49,7 @@
   authors: C. Desgranges, J. Delhommelle
   link:
     url: https://www.taylorfrancis.com/books/mono/10.1201/9781003006411/molecular-networking-jerome-delhommelle-caroline-desgranges
-    display: CRC Press
+    display: CRC Press, 2024
   highlight: 1
 
 - title: "Microswimmers under the spotlight: interplay between agents with different levels of activity"
@@ -59,6 +59,15 @@
   link:
     url: https://pubs.rsc.org/en/content/articlelanding/2023/sm/d3sm00915g/unauth
     display: Soft Matter 19, 7334 (2023)
+  highlight: 0
+
+- title: "Designing, synthesizing, and modeling active fluids"
+  image: Entropyproduction.jpg
+  description: This review covers recent advances in designing, synthesizing, and modeling active fluids at nano- and micro-scales, inspired by biological systems to create biomimetic machines and swimmers, while developing new nonequilibrium physics methods to capture their mechanical, thermodynamic, and emergent properties, paving the way for soft matter robotics.
+  authors: I. Essafri, B. Ghosh, C. Desgranges, J. Delhommelle
+  link:
+    url: https://pubs.aip.org/aip/pof/article/34/7/071301/2846541
+    display: Phys. Fluids 34, 071301 (2022)
   highlight: 0
 
 - title: "Entropy production in model colloidal suspensions under shear via the fluctuation theorem"
