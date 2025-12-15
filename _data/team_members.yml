@@ -64,7 +64,7 @@
 
 - name: "This could be you !"
   photo: rock.jpg
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
+  info: For more details, contact us via email
   email: caroline_desgranges@uml.edu
   number_educ: 0
   education1:
