@@ -70,6 +70,15 @@
     display: Phys. Fluids 34, 071301 (2022)
   highlight: 0
 
+- title: "Entropy determination for mixtures in the adiabatic grand-isobaric ensemble"
+  image: Entropyproduction.jpg
+  description: This review covers recent advances in designing, synthesizing, and modeling active fluids at nano- and micro-scales, inspired by biological systems to create biomimetic machines and swimmers, while developing new nonequilibrium physics methods to capture their mechanical, thermodynamic, and emergent properties, paving the way for soft matter robotics.
+  authors: C. Desgranges, J. Delhommelle
+  link:
+    url: https://pubs.aip.org/aip/jcp/article-abstract/156/8/084113/2840838/Entropy-determination-for-mixtures-in-the?redirectedFrom=fulltext
+    display: J. Chem. Phys. 156, 084113  (2022)
+  highlight: 0
+
 - title: "Entropy production in model colloidal suspensions under shear via the fluctuation theorem"
   image: Entropyproduction.jpg
   description: Dissipative systems often exhibit novel and unexpected properties. This is, for instance, the case of simple liquids, which, when subjected to shear and after reaching a steady state, can exhibit a negative entropy production over finite length scales and timescales.
