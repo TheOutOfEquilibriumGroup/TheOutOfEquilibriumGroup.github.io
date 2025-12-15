@@ -1,7 +1,7 @@
 - title: "Mini Review: Synergizing Driven Quantum Dynamics, AI, and Quantum Computing for Next-Gen Materials Science"
   image: NextGen.jpg
   description: Recent advances in next-generation materials design leverage synergistic approaches combining AI-driven synthesis, robotics, and quantum computing to accelerate the discovery of quantum materials with enhanced properties and novel functionalities for applications such as quantum batteries, solar cells, and phototransistors.
-  authors: O. S Akanbi, J. P Shannon, J. Delhommelle, C. Desgranges
+  authors: O. S. Akanbi, J. P. Shannon, J. Delhommelle, C. Desgranges
   link:
     url: https://pubs.acs.org/doi/full/10.1021/acs.jpclett.5c02390
     display: J. Phys. Chem. Lett. 16, 45 (2025)
@@ -50,7 +50,7 @@
   link:
     url: https://pubs.aip.org/aip/jcp/article/153/22/224113/973529/Entropy-production-in-model-colloidal-suspensions
     display: J. Phys. Chem. 153, 224113 (2020)
-  highlight: 1
+  highlight: 0
 
 - title: "Can Ordered Precursors Promote the Nucleation of Solid Solutions?"
   image: Ordered.jpg
