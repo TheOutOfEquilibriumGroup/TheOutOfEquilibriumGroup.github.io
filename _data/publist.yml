@@ -115,6 +115,15 @@
     display: J. Phys. Chem. 153, 224113 (2020)
   highlight: 0
 
+- title: "Entropy in Molecular Fluids: Interplay between Interaction Complexity and Criticality"
+  image: Entropyproduction.jpg
+  description: This review covers recent advances in designing, synthesizing, and modeling active fluids at nano- and micro-scales, inspired by biological systems to create biomimetic machines and swimmers, while developing new nonequilibrium physics methods to capture their mechanical, thermodynamic, and emergent properties, paving the way for soft matter robotics.
+  authors: C. Desgranges, J. Delhommelle
+  link:
+    url: https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.0c08014
+    display: J. Phys. Chem. B 124, 11463 (2020)
+  highlight: 0
+
 - title: "Can Ordered Precursors Promote the Nucleation of Solid Solutions?"
   image: Ordered.jpg
   description: Crystallization often proceeds through successive stages that lead to a gradual increase in organization. Using molecular simulation, we determine the nucleation pathway for solid solutions of copper and gold. We identify a new nucleation mechanism (liquid→𝐿⁢12 precursor→solid solution) involving a chemically ordered intermediate that is more organized than the end product. 
