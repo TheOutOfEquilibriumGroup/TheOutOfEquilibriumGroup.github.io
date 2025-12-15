@@ -8,6 +8,7 @@ permalink: /teaching/
 
 # Teaching
 
+-------------------------------------
 
 # Spring 2026
 
