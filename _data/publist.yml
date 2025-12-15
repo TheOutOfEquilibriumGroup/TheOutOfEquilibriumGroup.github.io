@@ -15,6 +15,24 @@
     url: https://pubs.acs.org/doi/full/10.1021/acs.jpclett.5c02469
     display: J. Phys. Chem. Lett. 16, 11405 (2025)
   highlight: 1
+
+- title: "Deciphering the complexities of crystalline state (s) with molecular simulations"
+  image: LocalDis.jpg
+  description: Recent computational advances, augmented by machine learning, have enhanced molecular simulations to predict crystal structures, compute free energies and barriers, and visualize nucleation mechanisms, addressing the complex thermodynamic and kinetic interplay in crystallization processes that yield diverse polymorphs and metastable forms.
+  authors: C. Desgranges, J. Delhommelle, 
+  link:
+    url: https://www.nature.com/articles/s42004-025-01667-z
+    display: Commun. Chem. 8, 281 (2025)
+  highlight: 0
+
+- title: "Advancing the design of gold nanomaterials with machine-learned potentials"
+  image: LocalDis.jpg
+  description: Gold nanoparticles and nanoclusters have emerged as highly efficient, tailorable catalysts for nanomedicine, sensing, and bioimaging, yet optimizing their structure-function relationship remains challenging due to their dual organic-metallic nature, with DFT offering accuracy at high computational cost and classical simulations enabling broad exploration but relying on often inadequate empirical force fields.
+  authors: K. Sajini, C. Desgranges, J. Delhommelle, 
+  link:
+    url: https://www.nature.com/articles/s42004-025-01667-z
+    display: Nano Express 6, 022001 (2025)
+  highlight: 0
   
 - title: "Accelerated convergence via adiabatic sampling for adsorption and desorption processes"
   image: Convergence1.jpeg
