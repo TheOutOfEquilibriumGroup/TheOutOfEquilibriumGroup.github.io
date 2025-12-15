@@ -43,6 +43,15 @@
     display: J. Phys. Chem. 161, 104104 (2024) (Editors' Pick)
   highlight: 1
 
+- title: "Molecular Networking: Statistical Mechanics in the Age of AI and Machine Learning"
+  image: Book2.jpeg
+  description: This book employs an analogy between social groups and molecular assemblies to introduce statistical mechanics, machine learning, and data science concepts, demonstrating how molecular features, interactions, and "communication" processes—akin to polling and social networking—enable prediction of properties and collective behavior in systems for biological, environmental, and energy applications.
+  authors: C. Desgranges, J. Delhommelle
+  link:
+    url: https://www.taylorfrancis.com/books/mono/10.1201/9781003006411/molecular-networking-jerome-delhommelle-caroline-desgranges
+    display: CRC Press
+  highlight: 1
+
 - title: "Entropy production in model colloidal suspensions under shear via the fluctuation theorem"
   image: Entropyproduction.jpg
   description: Dissipative systems often exhibit novel and unexpected properties. This is, for instance, the case of simple liquids, which, when subjected to shear and after reaching a steady state, can exhibit a negative entropy production over finite length scales and timescales.
