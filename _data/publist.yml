@@ -6,6 +6,15 @@
     url: https://pubs.acs.org/doi/full/10.1021/acs.jpclett.5c02390
     display: J. Phys. Chem. Lett. 16, 45 (2025)
   highlight: 1
+
+- title: "Mapping Local Dissipation and Entropy Production in Complex and Active Fluids"
+  image: LocalDis.jpg
+  description: The work introduces a framework that decomposes global entropy production into local contributions by analyzing heat flows and fluxes, enabling spatial maps of dissipation in driven and active fluids and revealing that local entropy production obeys a local fluctuation theorem with correlations of opposite sign for stochastic and deterministic contributions in active matter.
+  authors: C. Desgranges, J. Delhommelle, 
+  link:
+    url: https://pubs.acs.org/doi/full/10.1021/acs.jpclett.5c02469
+    display: J. Phys. Chem. Lett. 16, 11405 (2025)
+  highlight: 1
   
 - title: "Accelerated convergence via adiabatic sampling for adsorption and desorption processes"
   image: Convergence1.jpeg
