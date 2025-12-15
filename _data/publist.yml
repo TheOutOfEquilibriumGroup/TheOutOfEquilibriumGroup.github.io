@@ -1,4 +1,12 @@
-
+- title: "Mini Review: Synergizing Driven Quantum Dynamics, AI, and Quantum Computing for Next-Gen Materials Science"
+  image: NextGen.jpeg
+  description: Recent advances in next-generation materials design leverage synergistic approaches combining AI-driven synthesis, robotics, and quantum computing to accelerate the discovery of quantum materials with enhanced properties and novel functionalities for applications such as quantum batteries, solar cells, and phototransistors.
+  authors: O. S Akanbi, J. P Shannon, J. Delhommelle, C. Desgranges
+  link:
+    url: https://pubs.acs.org/doi/full/10.1021/acs.jpclett.5c02390
+    display: J. Phys. Chem. Lett. 16, 45 (2025)
+  highlight: 1
+  
 - title: "Accelerated convergence via adiabatic sampling for adsorption and desorption processes"
   image: Convergence1.jpeg
   description: Here, we leverage simulations in an adiabatic statistical ensemble, known as adiabatic grand-isochoric ensemble (μ, V, L) ensemble, to reach equilibrium states with a greater efficiency than its isothermal counterpart, i.e., simulations in the grand-canonical ensemble.
