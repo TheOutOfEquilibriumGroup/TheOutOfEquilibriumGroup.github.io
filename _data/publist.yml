@@ -88,6 +88,24 @@
     display: Entropy 24, 97 (2022)
   highlight: 0
 
+- title: "Entropy scaling close to criticality: From simple to metallic systems"
+  image: Entropyproduction.jpg
+  description: This review covers recent advances in designing, synthesizing, and modeling active fluids at nano- and micro-scales, inspired by biological systems to create biomimetic machines and swimmers, while developing new nonequilibrium physics methods to capture their mechanical, thermodynamic, and emergent properties, paving the way for soft matter robotics.
+  authors: C. Desgranges, J. Delhommelle
+  link:
+    url: https://journals.aps.org/pre/abstract/10.1103/PhysRevE.103.052102
+    display: Phys. Rev. E 103, 052102 (2021)
+  highlight: 0
+
+- title: "Towards a machine learned thermodynamics: exploration of free energy landscapes in molecular fluids, biological systems and for gas storage and separation in metal–organic frameworks"
+  image: Entropyproduction.jpg
+  description: This review covers recent advances in designing, synthesizing, and modeling active fluids at nano- and micro-scales, inspired by biological systems to create biomimetic machines and swimmers, while developing new nonequilibrium physics methods to capture their mechanical, thermodynamic, and emergent properties, paving the way for soft matter robotics.
+  authors: C. Desgranges, J. Delhommelle
+  link:
+    url: https://pubs.rsc.org/en/content/articlehtml/2020/me/d0me00134a
+    display: Molecular Systems Design & Engineering 6, 52 (2021)
+  highlight: 0
+
 - title: "Entropy production in model colloidal suspensions under shear via the fluctuation theorem"
   image: Entropyproduction.jpg
   description: Dissipative systems often exhibit novel and unexpected properties. This is, for instance, the case of simple liquids, which, when subjected to shear and after reaching a steady state, can exhibit a negative entropy production over finite length scales and timescales.
