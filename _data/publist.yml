@@ -52,6 +52,15 @@
     display: CRC Press
   highlight: 1
 
+- title: "Microswimmers under the spotlight: interplay between agents with different levels of activity"
+  image: Entropyproduction.jpg
+  description: Simulations and experiments on light-activated self-propelled colloidal particles reveal how active fluids respond to spatial light patterns, enabling inverse templated assembly via bright regions that deplete particles and templated assembly via dark regions that densify them, with scaling relations for characteristic times, tunable local packing fractions through light intensity modulation, and protocols for creating arbitrarily complex nonequilibrium structures beyond thermodynamic limits.
+  authors: C. Desgranges, M. Ferrari, P. M. Chaikin, S. Sacanna, M. E. Tuckerman, J. Delhommelle
+  link:
+    url: https://pubs.rsc.org/en/content/articlelanding/2023/sm/d3sm00915g/unauth
+    display: Soft Matter 19, 7334 (2023)
+  highlight: 0
+
 - title: "Entropy production in model colloidal suspensions under shear via the fluctuation theorem"
   image: Entropyproduction.jpg
   description: Dissipative systems often exhibit novel and unexpected properties. This is, for instance, the case of simple liquids, which, when subjected to shear and after reaching a steady state, can exhibit a negative entropy production over finite length scales and timescales.
