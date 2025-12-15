@@ -58,39 +58,6 @@ We apply these ideas to both fundamental physics and real-world problems, from q
 
  **We are looking for passionate new PhD students, Postdocs, and Master students to join the team !**
 
-<figure class="fourth" style="display: flex; gap: 10px;">
-  <div style="width: 210px; height: 120px;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_UML.jpg" 
-         style="width: 100%; height: 100%; object-fit: contain;">
-  </div>
-  <div style="width: 110px; height: 120px;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Unity.jpg" 
-         style="width: 100%; height: 100%; object-fit: contain;">
-  </div>
-  <div style="width: 120px; height: 120px;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_PRF.jpg" 
-         style="width: 100%; height: 100%; object-fit: contain;">
-  </div>
-</figure>
-
-<figure class="fourth" style="display: flex; align-items: stretch; gap: 10px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_UML.jpg" 
-       style="width: 210px; height: 100%; object-fit: cover;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Unity.jpg" 
-       style="width: 110px; height: 100%; object-fit: cover;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_PRF.jpg" 
-       style="width: 120px; height: 100%; object-fit: cover;"> 
-</figure>
-
-<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_UML.jpg" 
-       style="width: 210px; height: 150px; object-fit: cover;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Unity.jpg" 
-       style="width: 110px; height: 150px; object-fit: cover;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_PRF.jpg" 
-       style="width: 120px; height: 150px; object-fit: cover;"> 
-</figure>
-
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_UML.jpg" style="width: 210px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Unity.jpg" style="width: 110px">
