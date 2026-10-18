@@ -42,7 +42,7 @@ We apply these ideas to both fundamental physics and real-world problems, from q
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/OOE.jpg" alt="Slide 5" />
         </div>       
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/main.jpg" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Super.jpg" alt="Slide 6" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
