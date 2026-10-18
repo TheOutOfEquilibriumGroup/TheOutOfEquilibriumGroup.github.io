@@ -23,12 +23,33 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 <div class="row">
 {% endif %}
 
+----
 <div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left; margin-right: 15px;" />
+  <h4 style="margin-bottom: 2px;">{{ member.name }}</h4>
+  
+  <!-- Grouping the text with a small line-height and compressed margins -->
+  <div style="line-height: 1.3; margin-bottom: 5px;">
+    <i style="display: block; margin-bottom: 2px;">{{ member.info }}</i>
+    {% if member.focus %}
+      <span style="display: block; font-size: 0.95em; margin-bottom: 2px;"><strong>Focus:</strong> {{ member.focus }}</span>
+    {% endif %}
+    {% if member.bio %}
+      <span style="display: block; font-size: 0.9em; color: #555;">{{ member.bio }}</span>
+    {% endif %}
+  </div>
+
+  {% if member.linkedin %}
+  <a href="{{ member.linkedin }}" target="_blank">{{ '<i class="fab fa-linkedin"></i> LinkedIn' | safe }}</a>
+  {% endif %} 
+
+
+<!-- <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
   <!-- Add the code below to show the focus if it exists in your data file -->
-  {% if member.focus %}
+<!--  {% if member.focus %}
   <br><span><strong>Focus:</strong> {{ member.focus }}</span>
   {% endif %}
   {% if member.bio %}
