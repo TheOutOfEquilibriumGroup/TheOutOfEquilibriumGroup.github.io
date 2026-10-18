@@ -35,7 +35,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   <a href="{{ member.linkedin }}" target="_blank">{{ '<i class="fab fa-linkedin"></i> LinkedIn' | safe }}</a>
   {% endif %} 
   {% if member.bio %}
-  <br><span><strong>Bio:</strong> {{ member.bio }}</span>
+  <span><strong>Bio:</strong> {{ member.bio }}</span>
   {% endif %}
 
 <!--  {% if member.linkedin %}
