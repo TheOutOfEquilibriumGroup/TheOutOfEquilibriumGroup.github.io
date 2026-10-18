@@ -1,4 +1,9 @@
-- name: Dhruv Patel
+name: Dhruv Patel
   photo: Dhruv.jpg
-  duration: In the Out of Equilibrium Group Fall 2023, now PhD student at UML/CS
-  info: Computer Scientist / Developement of Monte Carlo simulations on quantum computers
+  role_in_lab: Visiting Student (Fall 2023)
+  current_position: PhD Student in Computer Science at UMASS Lowell
+  
+- name: Hazel Erkmen
+  photo: Screenshot.jpg
+  role_in_lab: Undergraduate Researcher (Fall 2025)
+  current_position: Undergraduate student in Computer Science at UMASS Lowell
