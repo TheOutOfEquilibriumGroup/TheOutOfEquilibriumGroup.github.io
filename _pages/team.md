@@ -22,8 +22,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% if even_odd == 0 %}
 <div class="row">
 {% endif %}
-
-----
+  
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left; margin-right: 15px;" />
   <h4 style="margin-bottom: 2px;">{{ member.name }}</h4>
