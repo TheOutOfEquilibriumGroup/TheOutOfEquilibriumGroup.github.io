@@ -162,7 +162,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   <h4>{{ member.name }}</h4>
   <i>{{ member.role_in_lab }} </i> <!--<br> Role: {{ member.role_in_lab }}</i>-->
   <!-- <i>{{ member.current_position }} <br>--> 
-  <i> Current Position: {{ member.current_position }}</i>
+  <br><i> Current Position: {{ member.current_position }}</i>
   <ul style="overflow: hidden">
 
   </ul>
