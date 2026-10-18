@@ -27,7 +27,7 @@
 
 - title: "Focal plane wavefront correction for dark hole creation with a neural network on PICTURE-D"
   image: LocalDis.jpg
-  description: Recent computational advances, augmented by machine learning, have enhanced molecular simulations to predict crystal structures, compute free energies and barriers, and visualize nucleation mechanisms, addressing the complex thermodynamic and kinetic interplay in crystallization processes that yield diverse polymorphs and metastable forms.
+  description: Recent computational advances
   authors: M. Jones, C. B. Mendillo, C. Desgranges
   link:
     url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/14145/141456A/Focal-plane-wavefront-correction-for-dark-hole-creation-with-a/10.1117/12.3103932.short
@@ -36,7 +36,7 @@
 
 - title: "Accelerated microswimmer maze solving via spatiotemporally patterned stimuli"
   image: LocalDis.jpg
-  description: Recent computational advances, augmented by machine learning, have enhanced molecular simulations to predict crystal structures, compute free energies and barriers, and visualize nucleation mechanisms, addressing the complex thermodynamic and kinetic interplay in crystallization processes that yield diverse polymorphs and metastable forms.
+  description: Recent computational advances 
   authors: C. Desgranges, J. Delhommelle
   link:
     url: https://pubs.rsc.org/sm/article-abstract/22/7/1655/913040
@@ -45,7 +45,7 @@
 
 - title: "Programming entropy production hotspots via interaction patterning"
   image: LocalDis.jpg
-  description: Recent computational advances, augmented by machine learning, have enhanced molecular simulations to predict crystal structures, compute free energies and barriers, and visualize nucleation mechanisms, addressing the complex thermodynamic and kinetic interplay in crystallization processes that yield diverse polymorphs and metastable forms.
+  description: Recent computational advances
   authors: C. Desgranges, J. Delhommelle
   link:
     url: https://pubs.rsc.org/sm/article-abstract/22/7/1655/913040
@@ -54,7 +54,7 @@
 
 - title: "Rapid Exploration of Mixture Adsorption via Adiabatic Sampling"
   image: LocalDis.jpg
-  description: Recent computational advances, augmented by machine learning, have enhanced molecular simulations to predict crystal structures, compute free energies and barriers, and visualize nucleation mechanisms, addressing the complex thermodynamic and kinetic interplay in crystallization processes that yield diverse polymorphs and metastable forms.
+  description: Recent computational advances
   authors: C. Desgranges, J. Delhommelle
   link:
     url: https://pubs.acs.org/jpccck/article/130/26/9180/5158595/Rapid-Exploration-of-Mixture-Adsorption-via
