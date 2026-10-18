@@ -27,7 +27,14 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
-   {% if member.linkedin %}
+  <!-- Add the code below to show the focus if it exists in your data file -->
+  {% if member.focus %}
+  <br><span><strong>Focus:</strong> {{ member.focus }}</span>
+  {% endif %}
+  {% if member.bio %}
+  <br><span><strong>Bio:</strong> {{ member.bio }}</span>
+  {% endif %}
+  {% if member.linkedin %}
   <br><a href="{{ member.linkedin }}" target="_blank">{{ '<i class="fab fa-linkedin"></i> LinkedIn' | safe }}</a>
   {% endif %} 
 <!--  {% if member.linkedin %}
