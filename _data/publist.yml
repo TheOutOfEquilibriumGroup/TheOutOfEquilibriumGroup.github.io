@@ -1,30 +1,3 @@
-- title: "Mini Review: Synergizing Driven Quantum Dynamics, AI, and Quantum Computing for Next-Gen Materials Science"
-  image: NextGen.jpg
-  description: Recent advances in next-generation materials design leverage synergistic approaches combining AI-driven synthesis, robotics, and quantum computing to accelerate the discovery of quantum materials with enhanced properties and novel functionalities for applications such as quantum batteries, solar cells, and phototransistors.
-  authors: O. S. Akanbi, J. P. Shannon, J. Delhommelle, C. Desgranges
-  link:
-    url: https://pubs.acs.org/doi/full/10.1021/acs.jpclett.5c02390 
-    display: J. Phys. Chem. Lett. 16, 45 (2025)
-  highlight: 1
-
-- title: "Mapping Local Dissipation and Entropy Production in Complex and Active Fluids"
-  image: LocalDis.jpg
-  description: The work introduces a framework that decomposes global entropy production into local contributions by analyzing heat flows and fluxes, enabling spatial maps of dissipation in driven and active fluids and revealing that local entropy production obeys a local fluctuation theorem with correlations of opposite sign for stochastic and deterministic contributions in active matter.
-  authors: C. Desgranges, J. Delhommelle
-  link:
-    url: https://pubs.acs.org/doi/full/10.1021/acs.jpclett.5c02469
-    display: J. Phys. Chem. Lett. 16, 11405 (2025)
-  highlight: 1
-
-- title: "Deciphering the complexities of crystalline state (s) with molecular simulations"
-  image: LocalDis.jpg
-  description: Recent computational advances, augmented by machine learning, have enhanced molecular simulations to predict crystal structures, compute free energies and barriers, and visualize nucleation mechanisms, addressing the complex thermodynamic and kinetic interplay in crystallization processes that yield diverse polymorphs and metastable forms.
-  authors: C. Desgranges, J. Delhommelle
-  link:
-    url: https://www.nature.com/articles/s42004-025-01667-z
-    display: Commun. Chem. 8, 281 (2025)
-  highlight: 0
-
 - title: "Focal plane wavefront correction for dark hole creation with a neural network on PICTURE-D"
   image: LocalDis.jpg
   description: Recent computational advances
@@ -59,6 +32,33 @@
   link:
     url: https://pubs.acs.org/jpccck/article/130/26/9180/5158595/Rapid-Exploration-of-Mixture-Adsorption-via
     display: J. Phys. Chem. C 130, 9180 (2026)
+  highlight: 0
+  
+- title: "Mini Review: Synergizing Driven Quantum Dynamics, AI, and Quantum Computing for Next-Gen Materials Science"
+  image: NextGen.jpg
+  description: Recent advances in next-generation materials design leverage synergistic approaches combining AI-driven synthesis, robotics, and quantum computing to accelerate the discovery of quantum materials with enhanced properties and novel functionalities for applications such as quantum batteries, solar cells, and phototransistors.
+  authors: O. S. Akanbi, J. P. Shannon, J. Delhommelle, C. Desgranges
+  link:
+    url: https://pubs.acs.org/doi/full/10.1021/acs.jpclett.5c02390 
+    display: J. Phys. Chem. Lett. 16, 45 (2025)
+  highlight: 1
+
+- title: "Mapping Local Dissipation and Entropy Production in Complex and Active Fluids"
+  image: LocalDis.jpg
+  description: The work introduces a framework that decomposes global entropy production into local contributions by analyzing heat flows and fluxes, enabling spatial maps of dissipation in driven and active fluids and revealing that local entropy production obeys a local fluctuation theorem with correlations of opposite sign for stochastic and deterministic contributions in active matter.
+  authors: C. Desgranges, J. Delhommelle
+  link:
+    url: https://pubs.acs.org/doi/full/10.1021/acs.jpclett.5c02469
+    display: J. Phys. Chem. Lett. 16, 11405 (2025)
+  highlight: 1
+
+- title: "Deciphering the complexities of crystalline state (s) with molecular simulations"
+  image: LocalDis.jpg
+  description: Recent computational advances, augmented by machine learning, have enhanced molecular simulations to predict crystal structures, compute free energies and barriers, and visualize nucleation mechanisms, addressing the complex thermodynamic and kinetic interplay in crystallization processes that yield diverse polymorphs and metastable forms.
+  authors: C. Desgranges, J. Delhommelle
+  link:
+    url: https://www.nature.com/articles/s42004-025-01667-z
+    display: Commun. Chem. 8, 281 (2025)
   highlight: 0
 
 - title: "Advancing the design of gold nanomaterials with machine-learned potentials"
