@@ -29,7 +29,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}>--></i> 
   <!-- Add the code below to show the focus if it exists in your data file -->
   {% if member.focus %}
-  <br><span><strong>Focus:</strong> {{ member.focus }}</span>
+  <span><strong>Focus:</strong> {{ member.focus }}</span>
   {% endif %}
   {% if member.bio %}
   <br><span><strong>Bio:</strong> {{ member.bio }}</span>
