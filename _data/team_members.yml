@@ -8,11 +8,25 @@
 - name: Opeyemi Akanbi
   photo: Opeyemi.jpg
   info: Graduate Student
+  focus: Quantum Computing
   linkedin: https://ng.linkedin.com/in/opeyemi-samson-akanbi?trk=public_profile_samename-profile
+
+- name: Bo Huang
+  photo: Screenshot.jpg
+  info: Graduate Student
+  focus: Time Crystals
+  #linkedin: https://ng.linkedin.com/in/opeyemi-samson-akanbi?trk=public_profile_samename-profile
+
+- name: Michael Jones
+  photo: Michael.jpg
+  info: Graduate Student
+  focus: Machine Learning
+  bio: Outside of research, he loves drinking green tea and hitting the gym.
 
 - name: Jack Shannon
   photo: Jack.jpg
   info: Graduate Student
+  focus: Generative Models (Boltzmann Machines)
   linkedin: https://www.linkedin.com/in/jack-shannon-9b003733b/
 
 - name: Emma Goyette
@@ -55,11 +69,25 @@
 - name: Mohamed Bouchtout
   photo: Mohamed.jpg
   info: Undergraduate Student
+  focus: Quantum Machine Learning
   linkedin: 
 
-- name: Hazel Erkmen
+- name: Isaac Devers
   photo: Screenshot.jpg
   info: Undergraduate Student
+  focus: Time Crystals
+  linkedin: 
+
+- name: Shalini Kirubakara
+  photo: Screenshot.jpg
+  info: Undergraduate Student
+  focus: Nanothermodynamics
+  linkedin: 
+
+- name: Aarav Patel
+  photo: Screenshot.jpg
+  info: Undergraduate Student
+  focus: Anyonic Statistics
   linkedin: 
 
 - name: "This could be you !"
