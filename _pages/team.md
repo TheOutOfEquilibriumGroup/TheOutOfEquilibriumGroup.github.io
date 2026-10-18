@@ -31,12 +31,13 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   {% if member.focus %}
   <span><strong>Focus:</strong> {{ member.focus }}</span>
   {% endif %}
+  {% if member.linkedin %}
+  <a href="{{ member.linkedin }}" target="_blank">{{ '<i class="fab fa-linkedin"></i> LinkedIn' | safe }}</a>
+  {% endif %} 
   {% if member.bio %}
   <br><span><strong>Bio:</strong> {{ member.bio }}</span>
   {% endif %}
-  {% if member.linkedin %}
-  <br><a href="{{ member.linkedin }}" target="_blank">{{ '<i class="fab fa-linkedin"></i> LinkedIn' | safe }}</a>
-  {% endif %} 
+
 <!--  {% if member.linkedin %}
     <br><a href="{{ member.linkedin }}" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
   {% endif %}-->
