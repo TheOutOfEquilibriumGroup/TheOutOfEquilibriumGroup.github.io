@@ -34,6 +34,12 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   {% if member.linkedin %}
   <a href="{{ member.linkedin }}" target="_blank">{{ '<i class="fab fa-linkedin"></i> LinkedIn' | safe }}</a>
   {% endif %} 
+   {% if member.google_scholar %}
+  <a href="{{ member.google_scholar }}" target="_blank">{{ '<i class="fab fa-google_scholar"></i> GoogleScholar' | safe }}</a>
+  {% endif %} 
+   {% if member.orcid %}
+  <a href="{{ member.orcid }}" target="_blank">{{ '<i class="fab fa-orcid"></i> ORCID' | safe }}</a>
+  {% endif %} 
   {% if member.bio %}
   <span><strong>Bio:</strong> {{ member.bio }}</span>
   {% endif %}
